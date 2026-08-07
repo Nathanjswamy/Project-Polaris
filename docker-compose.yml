@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgres:15
+    container_name: polaris_db
+    environment:
+      POSTGRES_USER: polaris_user
+      POSTGRES_PASSWORD: polaris_password
+      POSTGRES_DB: polaris_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - polaris_postgres_data:/var/lib/postgresql/data
+    restart: unless-stopped
+
+volumes:
+  polaris_postgres_data:

@@ -1,0 +1,9 @@
+pandas
+numpy
+jupyter
+apify-client
+python-dotenv
+pydantic>=2.0.0
+tenacity>=8.0.0
+sqlalchemy>=2.0.0
+psycopg2-binary>=2.9.7
