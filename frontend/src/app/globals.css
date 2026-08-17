@@ -1,149 +1,139 @@
-:root {
-  --background-dark: #0f172a;
-  --surface-dark: #1e293b;
-  --primary-accent: #3b82f6;
-  --text-light: #f8fafc;
-  --text-muted: #94a3b8;
-  --border-color: #334155;
-  --success: #10b981;
-  --danger: #ef4444;
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Chai & Chrome Design System for Project Polaris */
+    --ink: #1A1614;           /* Near-black with warm brown undertone */
+    --parchment: #F0EBE3;     /* Aged paper/menu card */
+    --chai: #B8860B;          /* Dark goldenrod (Irani chai) */
+    --tumbler: #7C8592;       /* Brushed stainless steel (Filter coffee) */
+    --ceramic: #E8DDD3;       /* Off-white ceramic cup */
+    
+    /* Functional */
+    --cardamom: #5B7553;      /* Success/positive (Green) */
+    --chili: #C23B22;         /* Danger/alert (Red) */
+    
+    /* Surfaces (Dark Mode Default) */
+    --surface: #232019;
+    --surface-alt: #2D2A24;
+    --surface-hover: #38342C;
+    
+    /* Foreground/Text */
+    --text-primary: #F4F1ED;
+    --text-secondary: #A39E93;
+    --text-tertiary: #6E6A62;
+    
+    /* Borders */
+    --border-subtle: rgba(232, 221, 211, 0.1);
+    --border-strong: rgba(232, 221, 211, 0.25);
+  }
+
+  body {
+    @apply bg-[var(--ink)] text-[var(--text-primary)] antialiased min-h-screen font-sans selection:bg-[var(--chai)] selection:text-[var(--ink)];
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-display tracking-tight text-[var(--text-primary)];
+  }
+
+  /* Focus states */
+  *:focus-visible {
+    @apply outline-none ring-2 ring-[var(--chai)] ring-offset-2 ring-offset-[var(--ink)];
+  }
 }
 
-body {
-  margin: 0;
-  padding: 0;
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-  background-color: var(--background-dark);
-  color: var(--text-light);
-  -webkit-font-smoothing: antialiased;
+@layer utilities {
+  .text-shadow-sm {
+    text-shadow: 0 1px 2px rgba(26, 22, 20, 0.5);
+  }
+  
+  .glass-panel {
+    @apply bg-[var(--surface)]/80 backdrop-blur-md border border-[var(--border-subtle)] shadow-xl;
+  }
+  
+  .glass-panel-solid {
+    @apply bg-[var(--surface)] border border-[var(--border-subtle)] shadow-xl;
+  }
 }
 
-* {
-  box-sizing: border-box;
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
 }
 
-a {
-  color: inherit;
-  text-decoration: none;
+::-webkit-scrollbar-track {
+  background: var(--ink);
 }
 
-.layout-container {
-  display: flex;
-  min-height: 100vh;
+::-webkit-scrollbar-thumb {
+  background: var(--surface-alt);
+  border-radius: 4px;
 }
 
-/* Sidebar */
-.sidebar {
-  width: 260px;
-  background-color: var(--surface-dark);
-  border-right: 1px solid var(--border-color);
-  padding: 2rem 1rem;
-  display: flex;
-  flex-direction: column;
-  gap: 1rem;
+::-webkit-scrollbar-thumb:hover {
+  background: var(--text-tertiary);
 }
 
-.sidebar h2 {
-  margin-top: 0;
-  margin-bottom: 2rem;
-  padding-left: 1rem;
-  font-weight: 700;
-  color: var(--primary-accent);
-  letter-spacing: -0.5px;
+/* Recharts Customization to match theme */
+.recharts-cartesian-grid-horizontal line,
+.recharts-cartesian-grid-vertical line {
+  stroke: var(--border-subtle);
 }
 
-.nav-item {
-  padding: 0.75rem 1rem;
-  border-radius: 0.5rem;
-  color: var(--text-muted);
-  font-weight: 500;
-  transition: all 0.2s ease;
-  cursor: pointer;
+.recharts-text {
+  fill: var(--text-secondary);
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 12px;
 }
 
-.nav-item:hover, .nav-item.active {
-  background-color: rgba(59, 130, 246, 0.1);
-  color: var(--primary-accent);
+.recharts-tooltip-wrapper {
+  outline: none !important;
 }
 
-/* Main Content */
-.main-content {
-  flex: 1;
-  padding: 2rem 3rem;
-  overflow-y: auto;
+/* Leaflet Overrides for Dark Theme */
+.leaflet-container {
+  background: var(--ink) !important;
+  font-family: 'IBM Plex Sans', sans-serif !important;
 }
 
-.header {
-  margin-bottom: 2.5rem;
+.leaflet-popup-content-wrapper,
+.leaflet-popup-tip {
+  background: var(--surface) !important;
+  color: var(--text-primary) !important;
+  border: 1px solid var(--border-subtle);
+  border-radius: 4px !important;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.5) !important;
 }
 
-.header h1 {
-  margin: 0;
-  font-size: 2rem;
-  font-weight: 600;
+.leaflet-popup-content {
+  margin: 12px !important;
 }
 
-.header p {
-  color: var(--text-muted);
-  margin-top: 0.5rem;
+.leaflet-popup-close-button {
+  color: var(--text-secondary) !important;
 }
 
-/* Dashboard Grid */
-.dashboard-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 1.5rem;
+.leaflet-popup-close-button:hover {
+  color: var(--text-primary) !important;
+  background: transparent !important;
 }
 
-/* Card */
-.card {
-  background-color: var(--surface-dark);
-  border: 1px solid var(--border-color);
-  border-radius: 1rem;
-  padding: 1.5rem;
-  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+/* Neighborhood Polygon Hover */
+.leaflet-interactive {
+  transition: fill-opacity 0.2s ease, stroke-opacity 0.2s ease;
 }
 
-.card:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
-}
-
-.card-title {
-  font-size: 0.875rem;
-  color: var(--text-muted);
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-  margin: 0 0 0.5rem 0;
-  font-weight: 600;
-}
-
-.card-value {
-  font-size: 2rem;
-  font-weight: 700;
-  margin: 0 0 0.5rem 0;
-}
-
-.card-trend {
-  font-size: 0.875rem;
-  display: flex;
-  align-items: center;
-  gap: 0.25rem;
-}
-
-.trend-up {
-  color: var(--success);
-}
-.trend-down {
-  color: var(--danger);
-}
-
-/* Glassmorphism elements if needed */
-.glass-panel {
-  background: rgba(30, 41, 59, 0.7);
-  backdrop-filter: blur(10px);
-  -webkit-backdrop-filter: blur(10px);
-  border: 1px solid rgba(255, 255, 255, 0.1);
-  border-radius: 1rem;
+/* Reduced Motion */
+@media (prefers-reduced-motion: reduce) {
+  *, ::before, ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
 }

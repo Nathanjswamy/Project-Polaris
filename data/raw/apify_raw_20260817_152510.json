@@ -1,0 +1,4488 @@
+[
+  {
+    "title": "Conçu Jubilee Hills",
+    "subTitle": "కాంక్యూ",
+    "description": "Sunny European patisserie with modest decor, wooden tables & cakes & pastries in a glass display.",
+    "price": "₹400–1,400",
+    "categoryName": "Cafe",
+    "address": "Plot No 738, Rd Number 37, CBI Colony, Jubilee Hills, Hyderabad, Telangana 500033, India",
+    "neighborhood": "CBI Colony, Jubilee Hills",
+    "street": "Plot No 738, Rd Number 37",
+    "city": "Hyderabad",
+    "postalCode": "500033",
+    "state": "Telangana",
+    "countryCode": "IN",
+    "website": "http://www.concu.in/",
+    "phone": "+91 99858 00031",
+    "phoneUnformatted": "+919985800031",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 17.4366796,
+      "lng": 78.3995664
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": "C9PX+MR Hyderabad, Telangana, India",
+    "menu": "http://www.concu.in/",
+    "servicesLink": null,
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJZ3mAREiRyzsRIxCCJu8JwzU",
+    "categories": [
+      "Cafe"
+    ],
+    "fid": "0x3bcb914844807967:0x35c309ef26821023",
+    "cid": "3873951027216650275",
+    "reviewsCount": 8287,
+    "imagesCount": 9154,
+    "imageCategories": [
+      "All",
+      "Latest",
+      "Videos",
+      "Menu",
+      "Food & drink",
+      "Vibe",
+      "Pizza",
+      "Cake",
+      "Cappuccino",
+      "Juice",
+      "Tiramisu",
+      "By owner",
+      "Street View & 360°"
+    ],
+    "scrapedAt": "2026-08-17T09:54:36.763Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": "Not too busy",
+    "popularTimesLivePercent": 43,
+    "popularTimesHistogram": {
+      "Su": [
+        {
+          "hour": 6,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 7,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 8,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 9,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 10,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 11,
+          "occupancyPercent": 31
+        },
+        {
+          "hour": 12,
+          "occupancyPercent": 40
+        },
+        {
+          "hour": 13,
+          "occupancyPercent": 53
+        },
+        {
+          "hour": 14,
+          "occupancyPercent": 64
+        },
+        {
+          "hour": 15,
+          "occupancyPercent": 76
+        },
+        {
+          "hour": 16,
+          "occupancyPercent": 86
+        },
+        {
+          "hour": 17,
+          "occupancyPercent": 91
+        },
+        {
+          "hour": 18,
+          "occupancyPercent": 95
+        },
+        {
+          "hour": 19,
+          "occupancyPercent": 95
+        },
+        {
+          "hour": 20,
+          "occupancyPercent": 99
+        },
+        {
+          "hour": 21,
+          "occupancyPercent": 100
+        },
+        {
+          "hour": 22,
+          "occupancyPercent": 89
+        },
+        {
+          "hour": 23,
+          "occupancyPercent": 63
+        }
+      ],
+      "Mo": [
+        {
+          "hour": 6,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 7,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 8,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 9,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 10,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 11,
+          "occupancyPercent": 28
+        },
+        {
+          "hour": 12,
+          "occupancyPercent": 37
+        },
+        {
+          "hour": 13,
+          "occupancyPercent": 44
+        },
+        {
+          "hour": 14,
+          "occupancyPercent": 52
+        },
+        {
+          "hour": 15,
+          "occupancyPercent": 61
+        },
+        {
+          "hour": 16,
+          "occupancyPercent": 70
+        },
+        {
+          "hour": 17,
+          "occupancyPercent": 72
+        },
+        {
+          "hour": 18,
+          "occupancyPercent": 73
+        },
+        {
+          "hour": 19,
+          "occupancyPercent": 71
+        },
+        {
+          "hour": 20,
+          "occupancyPercent": 70
+        },
+        {
+          "hour": 21,
+          "occupancyPercent": 65
+        },
+        {
+          "hour": 22,
+          "occupancyPercent": 56
+        },
+        {
+          "hour": 23,
+          "occupancyPercent": 37
+        }
+      ],
+      "Tu": [
+        {
+          "hour": 6,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 7,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 8,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 9,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 10,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 11,
+          "occupancyPercent": 24
+        },
+        {
+          "hour": 12,
+          "occupancyPercent": 33
+        },
+        {
+          "hour": 13,
+          "occupancyPercent": 43
+        },
+        {
+          "hour": 14,
+          "occupancyPercent": 51
+        },
+        {
+          "hour": 15,
+          "occupancyPercent": 61
+        },
+        {
+          "hour": 16,
+          "occupancyPercent": 65
+        },
+        {
+          "hour": 17,
+          "occupancyPercent": 66
+        },
+        {
+          "hour": 18,
+          "occupancyPercent": 66
+        },
+        {
+          "hour": 19,
+          "occupancyPercent": 65
+        },
+        {
+          "hour": 20,
+          "occupancyPercent": 63
+        },
+        {
+          "hour": 21,
+          "occupancyPercent": 56
+        },
+        {
+          "hour": 22,
+          "occupancyPercent": 45
+        },
+        {
+          "hour": 23,
+          "occupancyPercent": 33
+        }
+      ],
+      "We": [
+        {
+          "hour": 6,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 7,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 8,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 9,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 10,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 11,
+          "occupancyPercent": 25
+        },
+        {
+          "hour": 12,
+          "occupancyPercent": 34
+        },
+        {
+          "hour": 13,
+          "occupancyPercent": 44
+        },
+        {
+          "hour": 14,
+          "occupancyPercent": 53
+        },
+        {
+          "hour": 15,
+          "occupancyPercent": 60
+        },
+        {
+          "hour": 16,
+          "occupancyPercent": 63
+        },
+        {
+          "hour": 17,
+          "occupancyPercent": 67
+        },
+        {
+          "hour": 18,
+          "occupancyPercent": 68
+        },
+        {
+          "hour": 19,
+          "occupancyPercent": 69
+        },
+        {
+          "hour": 20,
+          "occupancyPercent": 65
+        },
+        {
+          "hour": 21,
+          "occupancyPercent": 62
+        },
+        {
+          "hour": 22,
+          "occupancyPercent": 55
+        },
+        {
+          "hour": 23,
+          "occupancyPercent": 44
+        }
+      ],
+      "Th": [
+        {
+          "hour": 6,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 7,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 8,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 9,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 10,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 11,
+          "occupancyPercent": 26
+        },
+        {
+          "hour": 12,
+          "occupancyPercent": 33
+        },
+        {
+          "hour": 13,
+          "occupancyPercent": 43
+        },
+        {
+          "hour": 14,
+          "occupancyPercent": 49
+        },
+        {
+          "hour": 15,
+          "occupancyPercent": 58
+        },
+        {
+          "hour": 16,
+          "occupancyPercent": 63
+        },
+        {
+          "hour": 17,
+          "occupancyPercent": 69
+        },
+        {
+          "hour": 18,
+          "occupancyPercent": 68
+        },
+        {
+          "hour": 19,
+          "occupancyPercent": 65
+        },
+        {
+          "hour": 20,
+          "occupancyPercent": 60
+        },
+        {
+          "hour": 21,
+          "occupancyPercent": 59
+        },
+        {
+          "hour": 22,
+          "occupancyPercent": 53
+        },
+        {
+          "hour": 23,
+          "occupancyPercent": 40
+        }
+      ],
+      "Fr": [
+        {
+          "hour": 6,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 7,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 8,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 9,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 10,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 11,
+          "occupancyPercent": 28
+        },
+        {
+          "hour": 12,
+          "occupancyPercent": 37
+        },
+        {
+          "hour": 13,
+          "occupancyPercent": 45
+        },
+        {
+          "hour": 14,
+          "occupancyPercent": 53
+        },
+        {
+          "hour": 15,
+          "occupancyPercent": 61
+        },
+        {
+          "hour": 16,
+          "occupancyPercent": 70
+        },
+        {
+          "hour": 17,
+          "occupancyPercent": 75
+        },
+        {
+          "hour": 18,
+          "occupancyPercent": 77
+        },
+        {
+          "hour": 19,
+          "occupancyPercent": 74
+        },
+        {
+          "hour": 20,
+          "occupancyPercent": 74
+        },
+        {
+          "hour": 21,
+          "occupancyPercent": 78
+        },
+        {
+          "hour": 22,
+          "occupancyPercent": 75
+        },
+        {
+          "hour": 23,
+          "occupancyPercent": 58
+        }
+      ],
+      "Sa": [
+        {
+          "hour": 6,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 7,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 8,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 9,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 10,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 11,
+          "occupancyPercent": 27
+        },
+        {
+          "hour": 12,
+          "occupancyPercent": 41
+        },
+        {
+          "hour": 13,
+          "occupancyPercent": 55
+        },
+        {
+          "hour": 14,
+          "occupancyPercent": 71
+        },
+        {
+          "hour": 15,
+          "occupancyPercent": 86
+        },
+        {
+          "hour": 16,
+          "occupancyPercent": 94
+        },
+        {
+          "hour": 17,
+          "occupancyPercent": 100
+        },
+        {
+          "hour": 18,
+          "occupancyPercent": 97
+        },
+        {
+          "hour": 19,
+          "occupancyPercent": 96
+        },
+        {
+          "hour": 20,
+          "occupancyPercent": 94
+        },
+        {
+          "hour": 21,
+          "occupancyPercent": 97
+        },
+        {
+          "hour": 22,
+          "occupancyPercent": 88
+        },
+        {
+          "hour": 23,
+          "occupancyPercent": 64
+        }
+      ]
+    },
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "11 AM to 12 AM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "11 AM to 12 AM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "11 AM to 12 AM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "11 AM to 12 AM"
+      },
+      {
+        "day": "Friday",
+        "hours": "11 AM to 12 AM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "11 AM to 12 AM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11 AM to 12 AM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Kitchen": [
+        {
+          "day": "Monday",
+          "hours": "12:30–10:30 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "12:30–10:30 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "12:30–10:30 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "12:30–10:30 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "12:30–10:30 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "11 AM–11 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "11 AM–11 PM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [
+      {
+        "category": "People also search for",
+        "title": "Conçu Banjara Hills",
+        "reviewsCount": 961,
+        "totalScore": 4.5
+      },
+      {
+        "category": "People also search for",
+        "title": "Van Lavino Cafe & Patisserie - Jubilee Hills",
+        "reviewsCount": 3483,
+        "totalScore": 4.3
+      },
+      {
+        "category": "People also search for",
+        "title": "Magnolia Bakery",
+        "reviewsCount": 3215,
+        "totalScore": 4.2
+      },
+      {
+        "category": "People also search for",
+        "title": "ZUCI - Artisanal Chocolates & Cafe",
+        "reviewsCount": 1313,
+        "totalScore": 4.4
+      },
+      {
+        "category": "People also search for",
+        "title": "Cravery Cafe",
+        "reviewsCount": 2394,
+        "totalScore": 4.5
+      }
+    ],
+    "placesTags": [],
+    "reviewsTags": [
+      {
+        "title": "tiramisu",
+        "count": 139
+      },
+      {
+        "title": "desserts",
+        "count": 987
+      },
+      {
+        "title": "outdoor seating",
+        "count": 18
+      },
+      {
+        "title": "chocolate eclair",
+        "count": 55
+      },
+      {
+        "title": "macaroons",
+        "count": 35
+      },
+      {
+        "title": "blueberry cheesecake",
+        "count": 40
+      },
+      {
+        "title": "choux buns",
+        "count": 21
+      },
+      {
+        "title": "cakes",
+        "count": 90
+      },
+      {
+        "title": "pastries",
+        "count": 112
+      },
+      {
+        "title": "pesto pasta",
+        "count": 17
+      }
+    ],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ],
+      "Service options": [
+        {
+          "Outdoor seating": true
+        },
+        {
+          "Curbside pickup": true
+        },
+        {
+          "No-contact delivery": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Takeout": true
+        },
+        {
+          "Dine-in": true
+        }
+      ],
+      "Highlights": [
+        {
+          "Great coffee": true
+        },
+        {
+          "Great dessert": true
+        },
+        {
+          "Great tea selection": true
+        },
+        {
+          "Rooftop seating": true
+        }
+      ],
+      "Popular for": [
+        {
+          "Lunch": true
+        },
+        {
+          "Dinner": true
+        },
+        {
+          "Solo dining": true
+        },
+        {
+          "Good for working on laptop": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Coffee": true
+        },
+        {
+          "Quick bite": true
+        },
+        {
+          "Small plates": true
+        },
+        {
+          "Vegetarian options": true
+        }
+      ],
+      "Dining options": [
+        {
+          "Brunch": true
+        },
+        {
+          "Lunch": true
+        },
+        {
+          "Dinner": true
+        },
+        {
+          "Dessert": true
+        },
+        {
+          "Seating": true
+        },
+        {
+          "Table service": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Atmosphere": [
+        {
+          "Casual": true
+        },
+        {
+          "Cozy": true
+        },
+        {
+          "Quiet": true
+        },
+        {
+          "Romantic": true
+        },
+        {
+          "Trendy": true
+        },
+        {
+          "Upscale": true
+        }
+      ],
+      "Crowd": [
+        {
+          "College students": true
+        },
+        {
+          "Family-friendly": true
+        },
+        {
+          "Groups": true
+        },
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Tourists": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Google Pay": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Children": [
+        {
+          "Good for kids": true
+        },
+        {
+          "High chairs": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "Free street parking": true
+        },
+        {
+          "On-site parking": true
+        },
+        {
+          "Usually plenty of parking": true
+        },
+        {
+          "Valet parking": true
+        }
+      ],
+      "Pets": [
+        {
+          "Dogs allowed inside": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Con%C3%A7u%20Jubilee%20Hills&query_place_id=ChIJZ3mAREiRyzsRIxCCJu8JwzU",
+    "searchPageUrl": "https://www.google.com/maps/search/cafes%20in%20Jubilee%20Hills%20Hyderabad?hl=en",
+    "searchString": "cafes in Jubilee Hills Hyderabad",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlUk42BjnfX03zs8-RNKVRCt6KTNN7TgGyXT3RdEExJ8sAbJIP_zzvwgtJZ2VnCKNOea90TRzaltPpZoN02mm63_Z6qk-8XcoYgsb503jSGhOtLrS0GjxjNYOJq-9NpIxeP93Q8Ig=w408-h306-k-no",
+    "kgmid": "/g/12hq0lk8b",
+    "businessProfileId": "12973660753438192377",
+    "reviewsDistribution": {
+      "oneStar": 204,
+      "twoStar": 135,
+      "threeStar": 473,
+      "fourStar": 2108,
+      "fiveStar": 5367
+    },
+    "questionsAndAnswers": [],
+    "updatesFromCustomers": {
+      "text": "Best in city for coffee and dessert",
+      "language": "en",
+      "postDate": "2 weeks ago",
+      "postedBy": {
+        "name": "yesu padam",
+        "url": "https://www.google.com/maps/contrib/116068473414498365820?hl=en-US",
+        "title": "Local Guide",
+        "totalReviews": 84
+      },
+      "media": [
+        {
+          "link": "https://lh3.googleusercontent.com/grass-cs/ACvplmMXwCoja3uDjX7g_fD-BwqMqK68sRFpbepKSoLtE-5xbm0NkuMq3MsbmpCruHV7zvdoNAeRNJPpX7Au3IW_PjuTyLvre2z8WFqGPYLQ76dDHfpa1j37UtQtJCnwMcI4OteFc8dICZWkrOfq=k-no",
+          "postDate": "2 weeks ago"
+        },
+        {
+          "link": "https://lh3.googleusercontent.com/grass-cs/ACvplmNRao7IKNrnkIRyzzY5TSdgw5BmODiQ3ZNXI1PQPrtPbTU72esYhtoci0G_g1P10FgJiCoKuWD0EpJwZlNfAu16F82FXnDktnT_neHmFDcru4AfMyl2Bddl4JYQIk42W28GbLgUq0SMKjJa=k-no",
+          "postDate": "2 weeks ago"
+        }
+      ]
+    },
+    "webResults": [],
+    "tableReservationLinks": [],
+    "tableReservationProviders": [],
+    "bookingLinks": [],
+    "restaurantData": {
+      "tableReservationProvider": null
+    },
+    "ownerUpdates": [],
+    "imageUrls": [],
+    "reviews": [
+      {
+        "reviewerId": "117533981821169550858",
+        "reviewerUrl": "https://www.google.com/maps/contrib/117533981821169550858?hl=en",
+        "name": "Aswathy Unnikrishnan",
+        "reviewerNumberOfReviews": 0,
+        "isLocalGuide": false,
+        "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKtXA4dYV5-wfi5uCZ-kqW6297fclQCEYie0P78LO8EhJMZFQ=s1920-c-rp-mo-br100",
+        "text": "Cool",
+        "textTranslated": null,
+        "publishAt": "2 hours ago",
+        "publishedAtDate": "2026-08-17T07:37:47.834Z",
+        "likesCount": 0,
+        "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xWbGNFaHFhRE5VVlhscFdHOUpRbTh6ZWpSYWRsRRAB",
+        "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xWbGNFaHFhRE5VVlhscFdHOUpRbTh6ZWpSYWRsRRAB!2m1!1s0x0:0x35c309ef26821023!3m1!1s2@1:CAIQACodChtycF9oOlVlcEhqaDNUVXlpWG9JQm8zejRadlE%7C%7C?hl=en",
+        "reviewOrigin": "Google",
+        "stars": 5,
+        "rating": null,
+        "responseFromOwnerDate": null,
+        "responseFromOwnerText": null,
+        "reviewImageUrls": [],
+        "reviewContext": {},
+        "reviewDetailedRating": {
+          "Food": 5,
+          "Service": 5,
+          "Atmosphere": 5
+        },
+        "visitedIn": null,
+        "originalLanguage": "en",
+        "translatedLanguage": null
+      },
+      {
+        "reviewerId": "101690611646844881036",
+        "reviewerUrl": "https://www.google.com/maps/contrib/101690611646844881036?hl=en",
+        "name": "Aditya singh Rajpoot",
+        "reviewerNumberOfReviews": 3,
+        "isLocalGuide": true,
+        "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJHFlMLTRLVAsrYbRD4eomiN0Ac1FRrQLpAz4kMaCVvzRFl2mNh=s1920-c-rp-mo-ba12-br100",
+        "text": "Good job",
+        "textTranslated": null,
+        "publishAt": "2 hours ago",
+        "publishedAtDate": "2026-08-17T07:36:14.488Z",
+        "likesCount": 0,
+        "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25GYVlrSkdSbVZRYzA5WmREUmZjbHBwZGtoRGNsRRAB",
+        "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25GYVlrSkdSbVZRYzA5WmREUmZjbHBwZGtoRGNsRRAB!2m1!1s0x0:0x35c309ef26821023!3m1!1s2@1:CAIQACodChtycF9oOnFaYkJGRmVQc09ZdDRfclppdkhDclE%7C%7C?hl=en",
+        "reviewOrigin": "Google",
+        "stars": 4,
+        "rating": null,
+        "responseFromOwnerDate": null,
+        "responseFromOwnerText": null,
+        "reviewImageUrls": [],
+        "reviewContext": {},
+        "reviewDetailedRating": {
+          "Food": 4,
+          "Service": 4,
+          "Atmosphere": 4
+        },
+        "visitedIn": null,
+        "originalLanguage": "en",
+        "translatedLanguage": null
+      },
+      {
+        "reviewerId": "106215970603907887550",
+        "reviewerUrl": "https://www.google.com/maps/contrib/106215970603907887550?hl=en",
+        "name": "Vikas Janiya",
+        "reviewerNumberOfReviews": 3,
+        "isLocalGuide": false,
+        "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUrbaUlzX5SRgzVLRH7klPfq-aNAeEuZ3dlj0tuSA9Q76VkXxvvkQ=s1920-c-rp-mo-br100",
+        "text": null,
+        "textTranslated": null,
+        "publishAt": "2 hours ago",
+        "publishedAtDate": "2026-08-17T07:04:05.877Z",
+        "likesCount": 0,
+        "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xZeGRuSXpPVTExV1dWQlMwZE1SMUkwU2xOd1IyYxAB",
+        "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xZeGRuSXpPVTExV1dWQlMwZE1SMUkwU2xOd1IyYxAB!2m1!1s0x0:0x35c309ef26821023!3m1!1s2@1:CAIQACodChtycF9oOlYxdnIzOU11WWVBS0dMR1I0SlNwR2c%7C%7C?hl=en",
+        "reviewOrigin": "Google",
+        "stars": 5,
+        "rating": null,
+        "responseFromOwnerDate": null,
+        "responseFromOwnerText": null,
+        "reviewImageUrls": [],
+        "reviewContext": {},
+        "reviewDetailedRating": {
+          "Food": 5,
+          "Service": 5,
+          "Atmosphere": 5
+        },
+        "visitedIn": null,
+        "originalLanguage": null,
+        "translatedLanguage": null
+      }
+    ],
+    "leadsEnrichment": []
+  },
+  {
+    "title": "Café Irani Chai",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Cafe",
+    "address": "Street Number 4, opp. bawarchi restaurant, RTC Cross Road, Zamistanpur, Hyderabad, Telangana 500020, India",
+    "neighborhood": "RTC Cross Road, Zamistanpur",
+    "street": "Street Number 4, opp. bawarchi restaurant",
+    "city": "Hyderabad",
+    "postalCode": "500020",
+    "state": "Telangana",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 17.4064756,
+      "lng": 78.4981174
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": "CF4X+H6 Hyderabad, Telangana, India",
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJrSH3epuZyzsRxyh_WfiX93Y",
+    "categories": [
+      "Cafe"
+    ],
+    "fid": "0x3bcb999b7af721ad:0x76f797f8597f28c7",
+    "cid": "8572487508632217799",
+    "reviewsCount": 87,
+    "imagesCount": 124,
+    "imageCategories": [],
+    "scrapedAt": "2026-08-17T09:54:41.174Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7 AM to 11 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7 AM to 11 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7 AM to 11 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7 AM to 11 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7 AM to 11 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7 AM to 11 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7 AM to 11 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [
+      {
+        "title": "chai",
+        "count": 8
+      },
+      {
+        "title": "egg bonda",
+        "count": 2
+      },
+      {
+        "title": "osmania biscuits",
+        "count": 2
+      },
+      {
+        "title": "malai chai",
+        "count": 2
+      },
+      {
+        "title": "bakery items",
+        "count": 2
+      },
+      {
+        "title": "biryani",
+        "count": 4
+      },
+      {
+        "title": "atmosphere",
+        "count": 4
+      },
+      {
+        "title": "location",
+        "count": 2
+      },
+      {
+        "title": "theatre",
+        "count": 2
+      },
+      {
+        "title": "bajji",
+        "count": 2
+      }
+    ],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible seating": false
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Irani%20Chai&query_place_id=ChIJrSH3epuZyzsRxyh_WfiX93Y",
+    "searchPageUrl": "https://www.google.com/maps/search/Irani%20cafe%20Hyderabad?hl=en",
+    "searchString": "Irani cafe Hyderabad",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk8HEGVhWL9wbjxYikI9bhoyNAWdF_4g1bzYm3GhDBa4edleg9SYk3j9F4ilU7D3JIS5ZbaYeJJcNTgBpLTTHaphlzRkDvVtGhv2BdFCDRRqjnABZYbDnRyXyVJg1JMsaIyckVX=w408-h306-k-no",
+    "kgmid": "/g/11q4m966rq",
+    "businessProfileId": "6959826394841462010",
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 2,
+      "threeStar": 13,
+      "fourStar": 33,
+      "fiveStar": 39
+    },
+    "questionsAndAnswers": [],
+    "webResults": [],
+    "tableReservationLinks": [],
+    "tableReservationProviders": [],
+    "bookingLinks": [],
+    "restaurantData": {
+      "tableReservationProvider": null
+    },
+    "ownerUpdates": [],
+    "imageUrls": [],
+    "reviews": [
+      {
+        "reviewerId": "111401540833067637306",
+        "reviewerUrl": "https://www.google.com/maps/contrib/111401540833067637306?hl=en",
+        "name": "ash was",
+        "reviewerNumberOfReviews": 223,
+        "isLocalGuide": true,
+        "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVWW6SGvDO4nUgF7Mu_1YU9VHDjSLVmHPcH6D7wbqzNIBxZwW3Y=s1920-c-rp-mo-ba12-br100",
+        "text": "We had a Irani tea here and Osmania biscuits both were very good in taste specialty is the tea which was very good definitely visit again",
+        "textTranslated": null,
+        "publishAt": "a day ago",
+        "publishedAtDate": "2026-08-15T13:29:48.987Z",
+        "likesCount": 0,
+        "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25sQlJqQnZNWE5IV2xCc05FWlBaVlpFUjJKbVYyYxAB",
+        "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25sQlJqQnZNWE5IV2xCc05FWlBaVlpFUjJKbVYyYxAB!2m1!1s0x0:0x76f797f8597f28c7!3m1!1s2@1:CAIQACodChtycF9oOnlBRjBvMXNHWlBsNEZPZVZER2JmV2c%7C%7C?hl=en",
+        "reviewOrigin": "Google",
+        "stars": 5,
+        "rating": null,
+        "responseFromOwnerDate": null,
+        "responseFromOwnerText": null,
+        "reviewImageUrls": [
+          "https://lh3.googleusercontent.com/grass-cs/ACvplmO3N9-lFhroHwi1lhY82BJyA04qZKtd9gnbbpNAGa83nhiCMW4CA6Vgp9poYOOcI7zGsRK2q-K9lQTWVqu5VgxTPsD9JdrgYyC-VynZ4WbTTJSyvKvoSn9rrdYLR0COiMFLqVc4ujMFmx2t=k-no",
+          "https://lh3.googleusercontent.com/grass-cs/ACvplmOs_Cz4ZbgdGVjWh3bv5KK7uljiEwP9PGJTYhM2YKswklt7AlqydIXYE20_rS9R-yG2-cukM0bISiQ8YJukWZZRVIOcpkTUSsg_o61WuE_TwXxk8Hzl2lmYT-UoE7UV2drCD81O6SYWMo8a=k-no",
+          "https://lh3.googleusercontent.com/grass-cs/ACvplmNZXNiwHLbFIVxAK7imsYDPYoB-Oqe8KcHjMk4No-gI81clFluGkNzOI26wQpS0MminPEWMZ-5fpO6Km6ZEI9V1sHZqhgFpUbJiAMTL0y03kCk3V5GWNDY-4rZTF1FN1oSdubNzqyOLDho=k-no",
+          "https://lh3.googleusercontent.com/grass-cs/ACvplmOT0XbbEUOmXU5X_O_XBii6h3T1zkS5bnpZWwR3AP92D7smbES2Ai6OqGzysRAHX9wlQv53BG0EvRRX_1OtPpKIBgJj53S_O5uw6QZjHZMNBYKTWxsQtWavX_tn3mhIxMz92VRM5QAEPWo=k-no",
+          "https://lh3.googleusercontent.com/grass-cs/ACvplmORR7rqj23uwJQ5k2MQVOjCq1M3ns_5Jr9dI-pEZ9bPMtYXzzU4jEwrSu083JpZBD44V1lAd8xqFOEZ6ltFrts1qiPdYg8JuFf7Aby5q2wyb0JnwT96MMF7Pu7yju0TxTIdAy8Fvv9VMPg=k-no",
+          "https://lh3.googleusercontent.com/grass-cs/ACvplmPXkHljyk6j818yqDgEBNuN5-uZuG32_E7QrZJSvgJyvaCJZO7SflAB05UqTz7dxlfn1Adu0zYS4OhhN6pf2Al725VNINnv18-RMZ4cLnYtb1Hi75LaCW6UmzdE7wfqBAg5B69qN7WhHSnS=k-no",
+          "https://lh3.googleusercontent.com/grass-cs/ACvplmOc_lQQXk6O7A1Nutj5lFt5cSyropffojc1Kek9IBu6Nxz3fmAOVCyJW22Jk3pf5ah6MqTeT0kpGz_9czvkx5ZlIKaetBJnEYoMsSloDFLcAWXqMgZGT68ufjuFcWbg_ZV4orPR5ozDUfxZ=k-no",
+          "https://lh3.googleusercontent.com/grass-cs/ACvplmN9g6NBQBKUOGJJ3L9cUwbKIIbJ1HLvon4vxeol2mDm8VJhjU-vSPKsFkpTQy8teGd_enB5dLaS2tPMLmpN912jdxn9edUVfGwM0ydY5bVCMI84F-o-JMmdUcLHuZOiHBhH_B_68wLfeCZH=k-no",
+          "https://lh3.googleusercontent.com/grass-cs/ACvplmMuqaiVBXZJrsffX2I0rYqBHGx9XSYS6yURZLKnFkjgV9NBITy8CYiJTvktivygFU7Idw_L1H-uzuGRYQpXJ3nJeUnCtgos3M5XNJiWu9uxf5KP7k0i1BIQvBYOUXvJ--uzHYfWGjexoQ=k-no",
+          "https://lh3.googleusercontent.com/grass-cs/ACvplmPe1WxtU1WCZbTADyi4YAiEPMrI7rCo1BphHoDnpYJzmaDpllkodvdQCcNtfeK4YW2wZSU21jqxI6i4HyF57sJLcVgyffbyV4FZk0KBKh0EScFhW1RtXOyhdi2yfHQEmv7UQ0sORLr7ozns=k-no",
+          "https://lh3.googleusercontent.com/grass-cs/ACvplmNEPuqmCgSQ_XQS6fRM7JMwvCHyomE6wijA0BkJRn0tW5h1Ahjz-SEplWYd1Wj4b7mBgZiIOZJ7J9Kc2YRVGJqXKpdjBkft6y0i5gq8bc4ZFdvL_n76-yp5_4yc1bk_luidx_w_I1ObHuRE=k-no",
+          "https://lh3.googleusercontent.com/grass-cs/ACvplmMQ01e-p4TiYhbRb61vBkdIptv6kDcpHXOSS7HKPOf9e4769zlz9wZrModJzWMU4WtPz9e13StSRPNiwgVFcqIRjapLax_Li2XcESz4C83qePXR8EtVeduHjorFg8XCgLThQ4wf73-o6vSw=k-no",
+          "https://lh3.googleusercontent.com/grass-cs/ACvplmPVQasa0orHlHI_U1aCNHDI_pg-EnU3YT4EK43Or1yreLYU5Ze5KAbE2MwPD6e3IFKYpS4qUSP8Oke0I3iloLvhetOq2M1fQzbQ1jMxCTuyAUZrFlIam7yQPL5O7K3Vnbq-U3U4s_WVLhbm=k-no",
+          "https://lh3.googleusercontent.com/grass-cs/ACvplmO6yRbqHBKZho6dP-cBZAPvR5R7ZyhEq0EbH3ikcdYjQnuiu5epkISUBkeJiwd9xUCK7rEi9aSTOe4OgmggDGWyhiRS8acao8EAnWnIfWz0kLakKR5w1CMkIOukcG6QyArxQpJuul9qxKtD=k-no",
+          "https://lh3.googleusercontent.com/grass-cs/ACvplmO6klg0TzSgEdGXfi9Z20VtGS0-2aQ6d0wOV7sqVNofGU-2NfLSjTlNbBlmt_yhzpvd95j-IBKpvyuzD3oGw2ErObvNZKefPPHQLQInH4JNZPxiIO2QQAjPgI1F2WwIqfxf0-zeLp_DEkAf=k-no",
+          "https://lh3.googleusercontent.com/grass-cs/ACvplmPsUW7CueevvyzHPbnp8XxBSxlaczrQOFWt-uhYh89QMxkTxold2_gBfWeITervpW_GRIJDY5-pehBFYcR8btDYrv8LO4-ihHKdtIy9TDWwDrtuvEZZcqZz2yexF1WKbGQ9TziDtBSrcGA=k-no",
+          "https://lh3.googleusercontent.com/grass-cs/ACvplmNrX3anlSJ5Kcte2KHa3GG6LBskpdTe0ybB4ylATiggxidaEN2phsmm4uiXcZ5xlCw_FIvJYJSt__BpultBk3SzRNOB8JRLSw32ptvP7OqhRdyVUz_ta5XnZNJ2hxMFlOS95uCveOdm6FA=k-no",
+          "https://lh3.googleusercontent.com/grass-cs/ACvplmN_uc88eVhOOdQNo9k65J_D1yoqrrdCgypRejXmOWTmdiGNZA_ureamXl2V2Yln6lvRjJP9gUcaoZ_PkyPYCBHaSIU-1CH-vR9i-izUph574BvW6yzsTy1qaHyA6nr9sGK5wsJH3RU6vaRX=k-no",
+          "https://lh3.googleusercontent.com/grass-cs/ACvplmNF8HtmIWRp09_roZoEZfBbJI2S10HFQ0-nQvUEGXR_tAeSH_fQADdmK2kmFZVZPFMAXEVdjKsAGify53IiIFMKd4jU0cKVGqKolLWwGVkCXh5xqMXzpqS1eZi8A4KYrrfaZtgaPrZMoiKu=k-no",
+          "https://lh3.googleusercontent.com/grass-cs/ACvplmO949wdKq1mMt7lLZuhl1diR9JH9pnEilBN4cydnIASExH490XiBjNllTWbJEJ9nwMI9g_wl_on6wzSiondVkatgR0YpXZbHi9TJZ9HfrCbH8UNpRvPzl6eGFEy-Pmitl-ydsSRcigssc4l=k-no",
+          "https://lh3.googleusercontent.com/grass-cs/ACvplmMRFrSTzwnVi-HJfQdxmqazmuSJAjKi1iNzAvBMqbfW7-K67ODR8ClO-Js30jL3VPjTWlNK02IBTEpVLA4G3RZphcLyP1KavIGGNa-I3Q14DTtc3EXYsv7DgOIWjKDGNb4ZazwuFWjydIaC=k-no",
+          "https://lh3.googleusercontent.com/grass-cs/ACvplmMHTFNeup33xIppQghi1XbswowEfw7T5M5Qnqbfg3bxUuyBSIBWFcZUA0aT1a2lHPBIdr6MTSaZCLCqwqXqNXZxOFdgsrmcBHBl8Aj12UquDXvsAAblJlLq0OdFzwhuLDZJZJyiRK-C-7GG=k-no",
+          "https://lh3.googleusercontent.com/grass-cs/ACvplmOAHVrPYR_STJtdnbBmJBl3l-E6Kx2026TePD1xV4BwpLhjbc8vx1zFPQLoBvvrT455RSilBJ_KM-HVhlF3T7zGFF_u-HzxY59STbX4uvhMY6tKLVksYKPlN9qK_SWGscW-idmHsBq0hcZx=k-no",
+          "https://lh3.googleusercontent.com/grass-cs/ACvplmMa3xQ7UHYMLHJmaOb5S08tPjVYbknEM4MuNYnSNwqqkDAXt95k-5Nfoss72cc5s8bCW4Wa7s2fvnyI1RxrM8JOXEoIYEb2A0qQbNljHIxi4KahTfyFvwjkrS6pJYqwFvs0UYI_Q90Xd-qV=k-no",
+          "https://lh3.googleusercontent.com/grass-cs/ACvplmNHP64e5CTQVqU_f57dRFYdrCnV7hSzt1wQ0VyVl6HQcbc_PbTw1EC31A-RS2n4-bQkcuAx_Oi8zgq9EaPjGJ3hghAmxD6ppN80T3uVduHDgDJ2ZW79jain2udGhOjS2EQ_DcSalGTfHNpM=k-no",
+          "https://lh3.googleusercontent.com/grass-cs/ACvplmOFiMOTkw6qt-RnaqEvBkssZAdlypGpjkhJXUkD2sg-2tGmTveYBcxaNrTUAEras9nTbmAJAi3fNFYHn2y_DK_IknGCv1VxB3yU8CNFdz116fdS38q87y0DrLWE0MuGo63MmuxEdMuIk70=k-no",
+          "https://lh3.googleusercontent.com/grass-cs/ACvplmOSQ4tuET46CRjH0vey9JiVfgikrfLX1Jg2fSyrNv7Tvp_ubvRA7r1WkdkYuKxDzxC195KmrDg6V6y0TEguuq7XRHXwMJ60_uYRzr8a4i_TEeiUhcL_MrLOhc5cr-17ry-1MD5HgH3Kkbk=k-no",
+          "https://lh3.googleusercontent.com/grass-cs/ACvplmOYMfbv20Ig4vl0-h55RlJpSEGA1ZcjbeZkc8-LDRecO9sYYWlg8i3CJYrQ7_yNxBFBzqONnL54yDu-ILWyqhLxxAyBY9X9zEJO4fQuqiTgra1atjXZkfVa3NmhfI0Aa2kmlwhda625vdsM=k-no"
+        ],
+        "reviewContext": {
+          "Meal type": "Other",
+          "Price per person": "₹1–200",
+          "Recommended dishes": "Fine Biscuit, Osmania Biscuit",
+          "Seating type": "Indoor dining area",
+          "Recommendation for vegetarians": "Somewhat recommend",
+          "Vegetarian offerings": "Large vegetarian selection",
+          "Parking space": "Somewhat difficult to find parking",
+          "Parking options": "Free street parking"
+        },
+        "reviewDetailedRating": {
+          "Food": 5,
+          "Service": 5,
+          "Atmosphere": 5
+        },
+        "visitedIn": null,
+        "originalLanguage": "en",
+        "translatedLanguage": null
+      },
+      {
+        "reviewerId": "114414181242594976528",
+        "reviewerUrl": "https://www.google.com/maps/contrib/114414181242594976528?hl=en",
+        "name": "Tushar Shetty",
+        "reviewerNumberOfReviews": 278,
+        "isLocalGuide": true,
+        "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXh0yx1gwpFHZL6YG8S2YigaXainYDeeobsPa5GxISwt_0aNbLL=s1920-c-rp-mo-ba12-br100",
+        "text": "Biryani in Bawarchi & Malai Chai in this Cafe✅\nmatch made in Heaven!👌🏻",
+        "textTranslated": null,
+        "publishAt": "a week ago",
+        "publishedAtDate": "2026-08-04T16:18:29.928Z",
+        "likesCount": 0,
+        "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2pZd2NtTkNhbEpPVEZKSk5sUllTRUZPWlRSbWMyYxAB",
+        "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pZd2NtTkNhbEpPVEZKSk5sUllTRUZPWlRSbWMyYxAB!2m1!1s0x0:0x76f797f8597f28c7!3m1!1s2@1:CAIQACodChtycF9oOjYwcmNCalJOTFJJNlRYSEFOZTRmc2c%7C%7C?hl=en",
+        "reviewOrigin": "Google",
+        "stars": 5,
+        "rating": null,
+        "responseFromOwnerDate": null,
+        "responseFromOwnerText": null,
+        "reviewImageUrls": [
+          "https://lh3.googleusercontent.com/grass-cs/ACvplmN4xoV-M8GCJ9Ce0lC4X-pJakV-oDWfMl9qghmYVQ4ul5a_alyVaWy7eVvwQz5kpt4WEqovIAUBUKyVCuw5yNv09Akk94q08aHNRHsHy4RjPTopLrxN-s2uHa6kOR8r3QLzlE0BhwjrtZc=k-no"
+        ],
+        "reviewContext": {
+          "Meal type": "Dinner",
+          "Noise level": "Quiet, easy to talk",
+          "Group size": "Suitable for all group sizes",
+          "Wait time": "No wait"
+        },
+        "reviewDetailedRating": {
+          "Food": 5,
+          "Service": 5,
+          "Atmosphere": 5
+        },
+        "visitedIn": null,
+        "originalLanguage": "en",
+        "translatedLanguage": null
+      },
+      {
+        "reviewerId": "105610982342397429241",
+        "reviewerUrl": "https://www.google.com/maps/contrib/105610982342397429241?hl=en",
+        "name": "shans reddy",
+        "reviewerNumberOfReviews": 13,
+        "isLocalGuide": true,
+        "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLkKsq-a1YfRXAoUSeP68RLwXJhm0-2t7Zm8Z8j1EphEpBv9zo=s1920-c-rp-mo-ba12-br100",
+        "text": "Irani tea is very good i tried once felt nice after biryani",
+        "textTranslated": null,
+        "publishAt": "a month ago",
+        "publishedAtDate": "2026-06-21T16:48:52.537Z",
+        "likesCount": 0,
+        "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25GZlluUlNXa3hvZG1reFMwODRNazlDV0RWT1VrRRAB",
+        "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25GZlluUlNXa3hvZG1reFMwODRNazlDV0RWT1VrRRAB!2m1!1s0x0:0x76f797f8597f28c7!3m1!1s2@1:CAIQACodChtycF9oOnFfYnRSWkxodmkxS084Mk9CWDVOUkE%7C%7C?hl=en",
+        "reviewOrigin": "Google",
+        "stars": 5,
+        "rating": null,
+        "responseFromOwnerDate": null,
+        "responseFromOwnerText": null,
+        "reviewImageUrls": [],
+        "reviewContext": {},
+        "reviewDetailedRating": {},
+        "visitedIn": null,
+        "originalLanguage": "en",
+        "translatedLanguage": null
+      }
+    ],
+    "leadsEnrichment": []
+  },
+  {
+    "title": "Irani Cafe",
+    "subTitle": null,
+    "description": null,
+    "price": "₹1–200",
+    "categoryName": "Cafe",
+    "address": "piller no- 116, Kamalanagar, Medipally, Peerzadiguda, Hyderabad, Telangana 500098, India",
+    "neighborhood": "Medipally, Peerzadiguda",
+    "street": "piller no- 116, Kamalanagar",
+    "city": "Hyderabad",
+    "postalCode": "500098",
+    "state": "Telangana",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 17.4104622,
+      "lng": 78.6049633
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": "CJ63+5X Hyderabad, Telangana, India",
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJzfDULDqfyzsRmfJhgumfRUk",
+    "categories": [
+      "Cafe"
+    ],
+    "fid": "0x3bcb9f3a2cd4f0cd:0x49459fe98261f299",
+    "cid": "5279801963425428121",
+    "reviewsCount": 71,
+    "imagesCount": 46,
+    "imageCategories": [
+      "All",
+      "Latest",
+      "Videos",
+      "Menu",
+      "Food & drink",
+      "Vibe",
+      "Espresso",
+      "By owner",
+      "Street View & 360°"
+    ],
+    "scrapedAt": "2026-08-17T09:54:43.810Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": "Now: Usually not busy",
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {
+      "Su": [
+        {
+          "hour": 6,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 7,
+          "occupancyPercent": 3
+        },
+        {
+          "hour": 8,
+          "occupancyPercent": 5
+        },
+        {
+          "hour": 9,
+          "occupancyPercent": 7
+        },
+        {
+          "hour": 10,
+          "occupancyPercent": 10
+        },
+        {
+          "hour": 11,
+          "occupancyPercent": 13
+        },
+        {
+          "hour": 12,
+          "occupancyPercent": 14
+        },
+        {
+          "hour": 13,
+          "occupancyPercent": 15
+        },
+        {
+          "hour": 14,
+          "occupancyPercent": 15
+        },
+        {
+          "hour": 15,
+          "occupancyPercent": 17
+        },
+        {
+          "hour": 16,
+          "occupancyPercent": 27
+        },
+        {
+          "hour": 17,
+          "occupancyPercent": 43
+        },
+        {
+          "hour": 18,
+          "occupancyPercent": 66
+        },
+        {
+          "hour": 19,
+          "occupancyPercent": 78
+        },
+        {
+          "hour": 20,
+          "occupancyPercent": 82
+        },
+        {
+          "hour": 21,
+          "occupancyPercent": 87
+        },
+        {
+          "hour": 22,
+          "occupancyPercent": 92
+        },
+        {
+          "hour": 23,
+          "occupancyPercent": 100
+        },
+        {
+          "hour": 0,
+          "occupancyPercent": 68
+        }
+      ],
+      "Mo": [
+        {
+          "hour": 6,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 7,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 8,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 9,
+          "occupancyPercent": 9
+        },
+        {
+          "hour": 10,
+          "occupancyPercent": 13
+        },
+        {
+          "hour": 11,
+          "occupancyPercent": 15
+        },
+        {
+          "hour": 12,
+          "occupancyPercent": 14
+        },
+        {
+          "hour": 13,
+          "occupancyPercent": 13
+        },
+        {
+          "hour": 14,
+          "occupancyPercent": 14
+        },
+        {
+          "hour": 15,
+          "occupancyPercent": 20
+        },
+        {
+          "hour": 16,
+          "occupancyPercent": 27
+        },
+        {
+          "hour": 17,
+          "occupancyPercent": 33
+        },
+        {
+          "hour": 18,
+          "occupancyPercent": 39
+        },
+        {
+          "hour": 19,
+          "occupancyPercent": 45
+        },
+        {
+          "hour": 20,
+          "occupancyPercent": 54
+        },
+        {
+          "hour": 21,
+          "occupancyPercent": 71
+        },
+        {
+          "hour": 22,
+          "occupancyPercent": 82
+        },
+        {
+          "hour": 23,
+          "occupancyPercent": 88
+        },
+        {
+          "hour": 0,
+          "occupancyPercent": 58
+        }
+      ],
+      "Tu": [
+        {
+          "hour": 6,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 7,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 8,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 9,
+          "occupancyPercent": 6
+        },
+        {
+          "hour": 10,
+          "occupancyPercent": 13
+        },
+        {
+          "hour": 11,
+          "occupancyPercent": 18
+        },
+        {
+          "hour": 12,
+          "occupancyPercent": 17
+        },
+        {
+          "hour": 13,
+          "occupancyPercent": 15
+        },
+        {
+          "hour": 14,
+          "occupancyPercent": 15
+        },
+        {
+          "hour": 15,
+          "occupancyPercent": 18
+        },
+        {
+          "hour": 16,
+          "occupancyPercent": 23
+        },
+        {
+          "hour": 17,
+          "occupancyPercent": 30
+        },
+        {
+          "hour": 18,
+          "occupancyPercent": 41
+        },
+        {
+          "hour": 19,
+          "occupancyPercent": 53
+        },
+        {
+          "hour": 20,
+          "occupancyPercent": 58
+        },
+        {
+          "hour": 21,
+          "occupancyPercent": 70
+        },
+        {
+          "hour": 22,
+          "occupancyPercent": 80
+        },
+        {
+          "hour": 23,
+          "occupancyPercent": 93
+        },
+        {
+          "hour": 0,
+          "occupancyPercent": 66
+        }
+      ],
+      "We": [
+        {
+          "hour": 6,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 7,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 8,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 9,
+          "occupancyPercent": 7
+        },
+        {
+          "hour": 10,
+          "occupancyPercent": 9
+        },
+        {
+          "hour": 11,
+          "occupancyPercent": 12
+        },
+        {
+          "hour": 12,
+          "occupancyPercent": 10
+        },
+        {
+          "hour": 13,
+          "occupancyPercent": 10
+        },
+        {
+          "hour": 14,
+          "occupancyPercent": 11
+        },
+        {
+          "hour": 15,
+          "occupancyPercent": 16
+        },
+        {
+          "hour": 16,
+          "occupancyPercent": 26
+        },
+        {
+          "hour": 17,
+          "occupancyPercent": 38
+        },
+        {
+          "hour": 18,
+          "occupancyPercent": 50
+        },
+        {
+          "hour": 19,
+          "occupancyPercent": 64
+        },
+        {
+          "hour": 20,
+          "occupancyPercent": 69
+        },
+        {
+          "hour": 21,
+          "occupancyPercent": 72
+        },
+        {
+          "hour": 22,
+          "occupancyPercent": 68
+        },
+        {
+          "hour": 23,
+          "occupancyPercent": 66
+        },
+        {
+          "hour": 0,
+          "occupancyPercent": 44
+        }
+      ],
+      "Th": [
+        {
+          "hour": 6,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 7,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 8,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 9,
+          "occupancyPercent": 5
+        },
+        {
+          "hour": 10,
+          "occupancyPercent": 8
+        },
+        {
+          "hour": 11,
+          "occupancyPercent": 10
+        },
+        {
+          "hour": 12,
+          "occupancyPercent": 11
+        },
+        {
+          "hour": 13,
+          "occupancyPercent": 15
+        },
+        {
+          "hour": 14,
+          "occupancyPercent": 19
+        },
+        {
+          "hour": 15,
+          "occupancyPercent": 20
+        },
+        {
+          "hour": 16,
+          "occupancyPercent": 27
+        },
+        {
+          "hour": 17,
+          "occupancyPercent": 35
+        },
+        {
+          "hour": 18,
+          "occupancyPercent": 50
+        },
+        {
+          "hour": 19,
+          "occupancyPercent": 61
+        },
+        {
+          "hour": 20,
+          "occupancyPercent": 69
+        },
+        {
+          "hour": 21,
+          "occupancyPercent": 75
+        },
+        {
+          "hour": 22,
+          "occupancyPercent": 80
+        },
+        {
+          "hour": 23,
+          "occupancyPercent": 83
+        },
+        {
+          "hour": 0,
+          "occupancyPercent": 59
+        }
+      ],
+      "Fr": [
+        {
+          "hour": 6,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 7,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 8,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 9,
+          "occupancyPercent": 8
+        },
+        {
+          "hour": 10,
+          "occupancyPercent": 12
+        },
+        {
+          "hour": 11,
+          "occupancyPercent": 16
+        },
+        {
+          "hour": 12,
+          "occupancyPercent": 15
+        },
+        {
+          "hour": 13,
+          "occupancyPercent": 13
+        },
+        {
+          "hour": 14,
+          "occupancyPercent": 12
+        },
+        {
+          "hour": 15,
+          "occupancyPercent": 15
+        },
+        {
+          "hour": 16,
+          "occupancyPercent": 19
+        },
+        {
+          "hour": 17,
+          "occupancyPercent": 31
+        },
+        {
+          "hour": 18,
+          "occupancyPercent": 47
+        },
+        {
+          "hour": 19,
+          "occupancyPercent": 63
+        },
+        {
+          "hour": 20,
+          "occupancyPercent": 78
+        },
+        {
+          "hour": 21,
+          "occupancyPercent": 86
+        },
+        {
+          "hour": 22,
+          "occupancyPercent": 91
+        },
+        {
+          "hour": 23,
+          "occupancyPercent": 91
+        },
+        {
+          "hour": 0,
+          "occupancyPercent": 58
+        }
+      ],
+      "Sa": [
+        {
+          "hour": 6,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 7,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 8,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 9,
+          "occupancyPercent": 7
+        },
+        {
+          "hour": 10,
+          "occupancyPercent": 9
+        },
+        {
+          "hour": 11,
+          "occupancyPercent": 10
+        },
+        {
+          "hour": 12,
+          "occupancyPercent": 11
+        },
+        {
+          "hour": 13,
+          "occupancyPercent": 13
+        },
+        {
+          "hour": 14,
+          "occupancyPercent": 18
+        },
+        {
+          "hour": 15,
+          "occupancyPercent": 26
+        },
+        {
+          "hour": 16,
+          "occupancyPercent": 37
+        },
+        {
+          "hour": 17,
+          "occupancyPercent": 49
+        },
+        {
+          "hour": 18,
+          "occupancyPercent": 61
+        },
+        {
+          "hour": 19,
+          "occupancyPercent": 66
+        },
+        {
+          "hour": 20,
+          "occupancyPercent": 67
+        },
+        {
+          "hour": 21,
+          "occupancyPercent": 74
+        },
+        {
+          "hour": 22,
+          "occupancyPercent": 82
+        },
+        {
+          "hour": 23,
+          "occupancyPercent": 85
+        },
+        {
+          "hour": 0,
+          "occupancyPercent": 60
+        }
+      ]
+    },
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 1 AM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 1 AM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 1 AM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 1 AM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 1 AM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1 AM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7 AM to 1 AM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Breakfast": [
+        {
+          "day": "Monday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9 AM–5 PM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [
+      {
+        "category": "People also search for",
+        "title": "Café Irani Chai",
+        "reviewsCount": 87,
+        "totalScore": 4.3
+      },
+      {
+        "category": "People also search for",
+        "title": "Irani chai wala",
+        "reviewsCount": 499,
+        "totalScore": 4.3
+      },
+      {
+        "category": "People also search for",
+        "title": "irani chai",
+        "reviewsCount": 2,
+        "totalScore": 5
+      },
+      {
+        "category": "People also search for",
+        "title": "Irani cafe",
+        "reviewsCount": 159,
+        "totalScore": 4.2
+      }
+    ],
+    "placesTags": [],
+    "reviewsTags": [
+      {
+        "title": "irani chai",
+        "count": 2
+      },
+      {
+        "title": "hygiene",
+        "count": 2
+      },
+      {
+        "title": "cups",
+        "count": 3
+      },
+      {
+        "title": "tea",
+        "count": 4
+      },
+      {
+        "title": "bun",
+        "count": 2
+      }
+    ],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Takeout": true
+        },
+        {
+          "Dine-in": true
+        }
+      ],
+      "Highlights": [
+        {
+          "Great tea selection": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Coffee": true
+        },
+        {
+          "Quick bite": true
+        },
+        {
+          "Small plates": true
+        }
+      ],
+      "Atmosphere": [
+        {
+          "Casual": true
+        }
+      ],
+      "Crowd": [
+        {
+          "Groups": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "Free street parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Irani%20Cafe&query_place_id=ChIJzfDULDqfyzsRmfJhgumfRUk",
+    "searchPageUrl": "https://www.google.com/maps/search/Irani%20cafe%20Hyderabad?hl=en",
+    "searchString": "Irani cafe Hyderabad",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnJdI7lr9U4ivPFX-SjAmKF3RaLrgFeu3bg42A_k0BIHNeiaOI7MVEpSN3UqGcmR7AxCMO2sB4mXLcYaeXdONBJgR-J0rZr9CaDwoDLMk999lUvS8UZqq3rIPawA5jLwD_8dIe0=w408-h725-k-no",
+    "kgmid": "/g/11y3sh1ysb",
+    "businessProfileId": "10295917252388915433",
+    "reviewsDistribution": {
+      "oneStar": 10,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 2,
+      "fiveStar": 58
+    },
+    "questionsAndAnswers": [],
+    "updatesFromCustomers": {
+      "text": "It’s not hygienic, the cups are not cleaned well, when I took one cup of chai in the soccer I can see one black bug",
+      "language": "en",
+      "postDate": "2 years ago",
+      "postedBy": {
+        "name": "Hareesh Vudari",
+        "url": "https://www.google.com/maps/contrib/102277507906071631560?hl=en-US",
+        "title": "Local Guide",
+        "totalReviews": 23
+      },
+      "media": [
+        {
+          "link": "https://lh3.googleusercontent.com/grass-cs/ACvplmOAyB0AAtcUUSyPl3XHcJS9cmHoTqFJnajDRTFI4IC4kaIkwPcvqIgBpIjutCkGm5qjkcJTJz1hqN0ysxnzz8GTOIbGL3KVDA6poSOTaBFOQwR2K5Llnkp1wCcrPwirnDOGv0jC=k-no",
+          "postDate": "2 years ago"
+        },
+        {
+          "link": "https://lh3.googleusercontent.com/grass-cs/ACvplmPHevS9ACT14okjfyv5K29NnLzrdYiv_lPm670WuqyYiair9fEuGFxq4FqRXarA6gNWA1OaazfVHTdft4yWMPihXcnefvn_W8hrRsQ61KKpzgurWZROnfT1K_OFEXRFDBpZgdo=k-no",
+          "postDate": "2 years ago"
+        },
+        {
+          "link": "https://lh3.googleusercontent.com/grass-cs/ACvplmNcWnG9ODedqTHFc_8jY512hTYFwvhQQMWPeVzRJoBkhVhigM-vD_wywM1bj4o7LID_6DB2f4OHQyj5fpZpJjkXfcP1lRAHkR3SbMwIIQhyKasQHy4IyaNkHOmSfls2zZoZAmKnlQ=k-no",
+          "postDate": "2 years ago"
+        }
+      ]
+    },
+    "webResults": [],
+    "tableReservationLinks": [],
+    "tableReservationProviders": [],
+    "bookingLinks": [],
+    "restaurantData": {
+      "tableReservationProvider": null
+    },
+    "ownerUpdates": [],
+    "imageUrls": [],
+    "reviews": [
+      {
+        "reviewerId": "110241291308935614443",
+        "reviewerUrl": "https://www.google.com/maps/contrib/110241291308935614443?hl=en",
+        "name": "Qaseem Ali",
+        "reviewerNumberOfReviews": 0,
+        "isLocalGuide": false,
+        "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjW_C6XLad36QNCeS2maecQ1w0gLvPhOwwCxg5lc-cY6d8Vvr0Creg=s1920-c-rp-mo-br100",
+        "text": null,
+        "textTranslated": null,
+        "publishAt": "4 days ago",
+        "publishedAtDate": "2026-08-13T06:51:01.567Z",
+        "likesCount": 0,
+        "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xNd2NFRmlNMUZFVTI4MWNESm9MVEpKWmprelkyYxAB",
+        "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xNd2NFRmlNMUZFVTI4MWNESm9MVEpKWmprelkyYxAB!2m1!1s0x0:0x49459fe98261f299!3m1!1s2@1:CAIQACodChtycF9oOlMwcEFiM1FEU281cDJoLTJJZjkzY2c%7C%7C?hl=en",
+        "reviewOrigin": "Google",
+        "stars": 5,
+        "rating": null,
+        "responseFromOwnerDate": null,
+        "responseFromOwnerText": null,
+        "reviewImageUrls": [],
+        "reviewContext": {
+          "Meal type": "Other",
+          "Price per person": "₹1–200"
+        },
+        "reviewDetailedRating": {
+          "Food": 5,
+          "Service": 5,
+          "Atmosphere": 5
+        },
+        "visitedIn": null,
+        "originalLanguage": null,
+        "translatedLanguage": null
+      },
+      {
+        "reviewerId": "108040679125333988539",
+        "reviewerUrl": "https://www.google.com/maps/contrib/108040679125333988539?hl=en",
+        "name": "G Kalyani",
+        "reviewerNumberOfReviews": 4,
+        "isLocalGuide": false,
+        "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJrSEpUQdbGBrgPzfBF-40dbfnlvTKxxXn54xMORvRfQ8664Q=s1920-c-rp-mo-br100",
+        "text": "Very tasty , service is very good , items served are very fresh and neat , had a gd &better experience , everyone must visit & try it guys 👌👌",
+        "textTranslated": null,
+        "publishAt": "4 days ago",
+        "publishedAtDate": "2026-08-12T14:42:37.468Z",
+        "likesCount": 0,
+        "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25GRmVUUmtVSEZSZURaTGJrd3dlbU5ETTA5d2IwRRAB",
+        "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25GRmVUUmtVSEZSZURaTGJrd3dlbU5ETTA5d2IwRRAB!2m1!1s0x0:0x49459fe98261f299!3m1!1s2@1:CAIQACodChtycF9oOnFFeTRkUHFReDZLbkwwemNDM09wb0E%7C%7C?hl=en",
+        "reviewOrigin": "Google",
+        "stars": 5,
+        "rating": null,
+        "responseFromOwnerDate": null,
+        "responseFromOwnerText": null,
+        "reviewImageUrls": [],
+        "reviewContext": {},
+        "reviewDetailedRating": {
+          "Food": 5,
+          "Service": 5,
+          "Atmosphere": 5
+        },
+        "visitedIn": null,
+        "originalLanguage": "en",
+        "translatedLanguage": null
+      },
+      {
+        "reviewerId": "112810194201122961596",
+        "reviewerUrl": "https://www.google.com/maps/contrib/112810194201122961596?hl=en",
+        "name": "Kundella Shashi",
+        "reviewerNumberOfReviews": 7,
+        "isLocalGuide": false,
+        "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIJ3eynA406ZidlnsrnRrh-saAvIW9YdwDwX44tNII-czsdm_A=s1920-c-rp-mo-br100",
+        "text": "Good taste and ambiance is too good and malai bun very tasty must try every one",
+        "textTranslated": null,
+        "publishAt": "4 days ago",
+        "publishedAtDate": "2026-08-12T13:57:44.453Z",
+        "likesCount": 0,
+        "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2kxRVMxcHFXRkE0UW1KNVExbGpXRVl5ZW1oQ1pWRRAB",
+        "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2kxRVMxcHFXRkE0UW1KNVExbGpXRVl5ZW1oQ1pWRRAB!2m1!1s0x0:0x49459fe98261f299!3m1!1s2@1:CAIQACodChtycF9oOi1ES1pqWFA4QmJ5Q1ljWEYyemhCZVE%7C%7C?hl=en",
+        "reviewOrigin": "Google",
+        "stars": 5,
+        "rating": null,
+        "responseFromOwnerDate": null,
+        "responseFromOwnerText": null,
+        "reviewImageUrls": [],
+        "reviewContext": {},
+        "reviewDetailedRating": {
+          "Food": 5,
+          "Service": 5,
+          "Atmosphere": 5
+        },
+        "visitedIn": null,
+        "originalLanguage": "en",
+        "translatedLanguage": null
+      }
+    ],
+    "leadsEnrichment": []
+  },
+  {
+    "title": "Kissa coffee house",
+    "subTitle": "కిస్సా కాఫీ హౌస్",
+    "description": null,
+    "price": null,
+    "categoryName": "Coffee shop",
+    "address": "House number 347, Road No. 22, Jubilee Hills, Hyderabad, Telangana 500033, India",
+    "neighborhood": "Jubilee Hills",
+    "street": "House number 347, Road No. 22",
+    "city": "Hyderabad",
+    "postalCode": "500033",
+    "state": "Telangana",
+    "countryCode": "IN",
+    "website": "https://www.kissacoffeehouse.in/",
+    "phone": "+91 72073 52661",
+    "phoneUnformatted": "+917207352661",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 17.4336243,
+      "lng": 78.4076174
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": "CCM5+C2 Hyderabad, Telangana, India",
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJeUbaGACRyzsR7XVdKeJI1wc",
+    "categories": [
+      "Coffee shop",
+      "Bakery",
+      "Cafe",
+      "Coffee roastery",
+      "Coffee store",
+      "Patisserie",
+      "Restaurant",
+      "Sandwich shop"
+    ],
+    "fid": "0x3bcb910018da4679:0x7d748e2295d75ed",
+    "cid": "565000414452086253",
+    "reviewsCount": 249,
+    "imagesCount": 420,
+    "imageCategories": [],
+    "scrapedAt": "2026-08-17T09:54:45.044Z",
+    "reserveTableUrl": "https://www.google.com/maps/reserve/v/dine/c/aCcERDi9kXw?source=pa&opi=79508299&hl=en-US&gei=YtqCauLfHtyiptQP856V6AY&ahbb=1&sourceurl=https://www.google.com/maps/preview/place?authuser%3D0%26hl%3Den%26gl%3Dus%26pb%3D!1m16!1s0x3bcb910018da4679:0x7d748e2295d75ed!3m8!1m3!1d3620525.830906153!2d-81.5038464!3d27.6037632!3m2!1i489!2i906!4f13.1!4m2!3d40.7606891!4d-73.9991868!15m2!1m1!4s/m/053lrp6!12m4!2m3!1i360!2i120!4i8!13m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!14m2!1sMcYNaceANdnbi-gPt5PjyQQ!7e81!15m110!1m31!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m20!3b1!4b1!5b1!6b1!9b1!13b1!14b1!17b1!20b1!21b1!22b1!27m1!1b0!28b0!30b1!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!21m0!22m1!1e81!30m6!3b1!6m1!2b1!7m1!2b1!9b1!34m5!7b1!10b1!14b1!15m1!1b0!37i757!39sKissa%2Bcoffee%2Bhouse%26q%3DKissa%2Bcoffee%2Bhouse",
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 11 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 11 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 11 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 11 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 11 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 11 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 11 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [
+      {
+        "title": "peri peri fries",
+        "count": 3
+      },
+      {
+        "title": "turkish eggs",
+        "count": 2
+      },
+      {
+        "title": "outdoor seating",
+        "count": 7
+      },
+      {
+        "title": "desserts",
+        "count": 9
+      },
+      {
+        "title": "mocha latte",
+        "count": 2
+      },
+      {
+        "title": "hot chocolate",
+        "count": 4
+      },
+      {
+        "title": "cute cafe",
+        "count": 5
+      },
+      {
+        "title": "ambience",
+        "count": 39
+      },
+      {
+        "title": "fresh coffee",
+        "count": 2
+      },
+      {
+        "title": "kind staff",
+        "count": 5
+      }
+    ],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Kissa%20coffee%20house&query_place_id=ChIJeUbaGACRyzsR7XVdKeJI1wc",
+    "searchPageUrl": "https://www.google.com/maps/search/cafes%20in%20Jubilee%20Hills%20Hyderabad?hl=en",
+    "searchString": "cafes in Jubilee Hills Hyderabad",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm25FLtF9YXd4SXpJuKC-Rw---8-vHihazVCX1Dp5cgoMh_TWCcs9ZPBYHyXhxwzchm0AvGUKTyEjFG2tN922VztwZedUhh95JIVwb1bOsij3Lrt3BzOA8EuD4PUfLbjycoXek2ITvJF4uB=w408-h272-k-no",
+    "kgmid": "/g/11mst59mlt",
+    "businessProfileId": "7253463795291550202",
+    "reviewsDistribution": {
+      "oneStar": 12,
+      "twoStar": 6,
+      "threeStar": 6,
+      "fourStar": 29,
+      "fiveStar": 196
+    },
+    "questionsAndAnswers": [],
+    "webResults": [],
+    "tableReservationLinks": [
+      {
+        "name": "swiggy.com",
+        "url": "https://www.swiggy.com/restaurants/kissa-coffee-house-jubilee-hills-koramangala-hyderabad-1309906/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve"
+      },
+      {
+        "name": "zomato.com",
+        "url": "https://www.zomato.com/hyderabad/kissa-coffee-house-jubilee-hills/book?utm_source=rwg"
+      },
+      {
+        "name": "district.in",
+        "url": "https://www.district.in/dining/hyderabad/kissa-coffee-house-jubilee-hills/book?utm_source=rwg"
+      }
+    ],
+    "tableReservationProviders": [
+      {
+        "name": "District Dining",
+        "email": null,
+        "phone": null,
+        "address": null,
+        "reserveTableUrl": "https://www.google.com/maps/reserve/v/dine/c/aCcERDi9kXw?source=pa&opi=79508299&hl=en-US&gei=YtqCauLfHtyiptQP856V6AY&ahbb=1&sourceurl=https://www.google.com/maps/preview/place?authuser%3D0%26hl%3Den%26gl%3Dus%26pb%3D!1m16!1s0x3bcb910018da4679:0x7d748e2295d75ed!3m8!1m3!1d3620525.830906153!2d-81.5038464!3d27.6037632!3m2!1i489!2i906!4f13.1!4m2!3d40.7606891!4d-73.9991868!15m2!1m1!4s/m/053lrp6!12m4!2m3!1i360!2i120!4i8!13m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!14m2!1sMcYNaceANdnbi-gPt5PjyQQ!7e81!15m110!1m31!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m20!3b1!4b1!5b1!6b1!9b1!13b1!14b1!17b1!20b1!21b1!22b1!27m1!1b0!28b0!30b1!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!21m0!22m1!1e81!30m6!3b1!6m1!2b1!7m1!2b1!9b1!34m5!7b1!10b1!14b1!15m1!1b0!37i757!39sKissa%2Bcoffee%2Bhouse%26q%3DKissa%2Bcoffee%2Bhouse"
+      },
+      {
+        "name": "Zomato",
+        "email": null,
+        "phone": null,
+        "address": null,
+        "reserveTableUrl": "https://www.google.com/maps/reserve/v/dine/c/aCcERDi9kXw?source=pa&opi=79508299&hl=en-US&gei=YtqCauLfHtyiptQP856V6AY&ahbb=1&sourceurl=https://www.google.com/maps/preview/place?authuser%3D0%26hl%3Den%26gl%3Dus%26pb%3D!1m16!1s0x3bcb910018da4679:0x7d748e2295d75ed!3m8!1m3!1d3620525.830906153!2d-81.5038464!3d27.6037632!3m2!1i489!2i906!4f13.1!4m2!3d40.7606891!4d-73.9991868!15m2!1m1!4s/m/053lrp6!12m4!2m3!1i360!2i120!4i8!13m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!14m2!1sMcYNaceANdnbi-gPt5PjyQQ!7e81!15m110!1m31!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m20!3b1!4b1!5b1!6b1!9b1!13b1!14b1!17b1!20b1!21b1!22b1!27m1!1b0!28b0!30b1!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!21m0!22m1!1e81!30m6!3b1!6m1!2b1!7m1!2b1!9b1!34m5!7b1!10b1!14b1!15m1!1b0!37i757!39sKissa%2Bcoffee%2Bhouse%26q%3DKissa%2Bcoffee%2Bhouse"
+      },
+      {
+        "name": "Swiggy",
+        "email": null,
+        "phone": null,
+        "address": null,
+        "reserveTableUrl": "https://www.google.com/maps/reserve/v/dine/c/aCcERDi9kXw?source=pa&opi=79508299&hl=en-US&gei=YtqCauLfHtyiptQP856V6AY&ahbb=1&sourceurl=https://www.google.com/maps/preview/place?authuser%3D0%26hl%3Den%26gl%3Dus%26pb%3D!1m16!1s0x3bcb910018da4679:0x7d748e2295d75ed!3m8!1m3!1d3620525.830906153!2d-81.5038464!3d27.6037632!3m2!1i489!2i906!4f13.1!4m2!3d40.7606891!4d-73.9991868!15m2!1m1!4s/m/053lrp6!12m4!2m3!1i360!2i120!4i8!13m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!14m2!1sMcYNaceANdnbi-gPt5PjyQQ!7e81!15m110!1m31!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m20!3b1!4b1!5b1!6b1!9b1!13b1!14b1!17b1!20b1!21b1!22b1!27m1!1b0!28b0!30b1!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!21m0!22m1!1e81!30m6!3b1!6m1!2b1!7m1!2b1!9b1!34m5!7b1!10b1!14b1!15m1!1b0!37i757!39sKissa%2Bcoffee%2Bhouse%26q%3DKissa%2Bcoffee%2Bhouse"
+      }
+    ],
+    "bookingLinks": [],
+    "restaurantData": {
+      "tableReservationProvider": {
+        "name": "District Dining",
+        "email": null,
+        "phone": null,
+        "address": null,
+        "reserveTableUrl": "https://www.google.com/maps/reserve/v/dine/c/aCcERDi9kXw?source=pa&opi=79508299&hl=en-US&gei=YtqCauLfHtyiptQP856V6AY&ahbb=1&sourceurl=https://www.google.com/maps/preview/place?authuser%3D0%26hl%3Den%26gl%3Dus%26pb%3D!1m16!1s0x3bcb910018da4679:0x7d748e2295d75ed!3m8!1m3!1d3620525.830906153!2d-81.5038464!3d27.6037632!3m2!1i489!2i906!4f13.1!4m2!3d40.7606891!4d-73.9991868!15m2!1m1!4s/m/053lrp6!12m4!2m3!1i360!2i120!4i8!13m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!14m2!1sMcYNaceANdnbi-gPt5PjyQQ!7e81!15m110!1m31!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m20!3b1!4b1!5b1!6b1!9b1!13b1!14b1!17b1!20b1!21b1!22b1!27m1!1b0!28b0!30b1!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!21m0!22m1!1e81!30m6!3b1!6m1!2b1!7m1!2b1!9b1!34m5!7b1!10b1!14b1!15m1!1b0!37i757!39sKissa%2Bcoffee%2Bhouse%26q%3DKissa%2Bcoffee%2Bhouse"
+      }
+    },
+    "ownerUpdates": [],
+    "imageUrls": [],
+    "reviews": [
+      {
+        "reviewerId": "113876425141705522016",
+        "reviewerUrl": "https://www.google.com/maps/contrib/113876425141705522016?hl=en",
+        "name": "NEHA MUDALI",
+        "reviewerNumberOfReviews": 3,
+        "isLocalGuide": false,
+        "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLtD47EpoDD0Mbt5qcmbrl65HSxRJQUxBG9_rmkGE_APQrXvg=s1920-c-rp-mo-br100",
+        "text": "I seriously did not get the hype.\nThe food was below average, salt overpowered most of the dishes. The eggs benedict are absolutely horrendous and surprisingly the match tasted like THANDAI! 2 of my friends fell sick after having the food.\nPlease pay some more attention on what you serve your customers thank you",
+        "textTranslated": null,
+        "publishAt": "2 days ago",
+        "publishedAtDate": "2026-08-15T04:25:57.511Z",
+        "likesCount": 0,
+        "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xWRGNtSmFTekI0WDFkVVFtWmlVRzlEUjJaZmIxRRAB",
+        "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xWRGNtSmFTekI0WDFkVVFtWmlVRzlEUjJaZmIxRRAB!2m1!1s0x0:0x7d748e2295d75ed!3m1!1s2@1:CAIQACodChtycF9oOlVDcmJaSzB4X1dUQmZiUG9DR2Zfb1E%7C%7C?hl=en",
+        "reviewOrigin": "Google",
+        "stars": 1,
+        "rating": null,
+        "responseFromOwnerDate": null,
+        "responseFromOwnerText": null,
+        "reviewImageUrls": [],
+        "reviewContext": {},
+        "reviewDetailedRating": {},
+        "visitedIn": null,
+        "originalLanguage": "en",
+        "translatedLanguage": null
+      },
+      {
+        "reviewerId": "103726655812933186210",
+        "reviewerUrl": "https://www.google.com/maps/contrib/103726655812933186210?hl=en",
+        "name": "Nikhil Niky",
+        "reviewerNumberOfReviews": 36,
+        "isLocalGuide": true,
+        "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWpr7NFn2iLKNuhxD68OmMza9aMOttHfo9VrBHdajn2xRDwynl1tA=s1920-c-rp-mo-ba12-br100",
+        "text": null,
+        "textTranslated": null,
+        "publishAt": "3 days ago",
+        "publishedAtDate": "2026-08-14T03:17:25.645Z",
+        "likesCount": 0,
+        "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25SbU5UQXlibU13TmtacU4zTXllWGRzTTNadmJVRRAB",
+        "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25SbU5UQXlibU13TmtacU4zTXllWGRzTTNadmJVRRAB!2m1!1s0x0:0x7d748e2295d75ed!3m1!1s2@1:CAIQACodChtycF9oOnRmNTAybmMwNkZqN3MyeXdsM3ZvbUE%7C%7C?hl=en",
+        "reviewOrigin": "Google",
+        "stars": 5,
+        "rating": null,
+        "responseFromOwnerDate": null,
+        "responseFromOwnerText": null,
+        "reviewImageUrls": [],
+        "reviewContext": {},
+        "reviewDetailedRating": {
+          "Food": 4,
+          "Service": 5,
+          "Atmosphere": 5
+        },
+        "visitedIn": null,
+        "originalLanguage": null,
+        "translatedLanguage": null
+      },
+      {
+        "reviewerId": "111468978229135324829",
+        "reviewerUrl": "https://www.google.com/maps/contrib/111468978229135324829?hl=en",
+        "name": "Bharat Arora",
+        "reviewerNumberOfReviews": 8,
+        "isLocalGuide": true,
+        "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocL0FjLwWsp1c7RMbDi2ED-5mDkULvl9_tcMFdERfkr4xzmtXA=s1920-c-rp-mo-ba12-br100",
+        "text": null,
+        "textTranslated": null,
+        "publishAt": "4 days ago",
+        "publishedAtDate": "2026-08-13T09:51:00.338Z",
+        "likesCount": 0,
+        "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2twQmMwNUhSRnB5ZDFKRlpEVm1TMDlHWDFOU1JuYxAB",
+        "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2twQmMwNUhSRnB5ZDFKRlpEVm1TMDlHWDFOU1JuYxAB!2m1!1s0x0:0x7d748e2295d75ed!3m1!1s2@1:CAIQACodChtycF9oOkpBc05HRFpyd1JFZDVmS09GX1NSRnc%7C%7C?hl=en",
+        "reviewOrigin": "Google",
+        "stars": 5,
+        "rating": null,
+        "responseFromOwnerDate": null,
+        "responseFromOwnerText": null,
+        "reviewImageUrls": [],
+        "reviewContext": {},
+        "reviewDetailedRating": {
+          "Food": 5,
+          "Service": 5,
+          "Atmosphere": 5
+        },
+        "visitedIn": null,
+        "originalLanguage": null,
+        "translatedLanguage": null
+      }
+    ],
+    "leadsEnrichment": []
+  },
+  {
+    "title": "Irani cafe",
+    "subTitle": null,
+    "description": null,
+    "price": "₹1–200",
+    "categoryName": "Cafe",
+    "address": "90b/5, 2-3-504/A/B, 2-2, Amberpet, near Irani Hotel, Turab Nagar, Amberpet, Hyderabad, Telangana 500013, India",
+    "neighborhood": "Turab Nagar, Amberpet",
+    "street": "90b/5, 2-3-504/A/B, 2-2, Amberpet, near Irani Hotel",
+    "city": "Hyderabad",
+    "postalCode": "500013",
+    "state": "Telangana",
+    "countryCode": "IN",
+    "phone": "+91 82478 13783",
+    "phoneUnformatted": "+918247813783",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 17.3935752,
+      "lng": 78.5222431
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": "9GVC+CV Hyderabad, Telangana, India",
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJkWYn7zOZyzsR5GaC-mQh6AE",
+    "categories": [
+      "Cafe"
+    ],
+    "fid": "0x3bcb9933ef276691:0x1e82164fa8266e4",
+    "cid": "137396506218096356",
+    "reviewsCount": 159,
+    "imagesCount": 23,
+    "imageCategories": [
+      "All",
+      "Menu",
+      "Videos",
+      "Food & drink",
+      "Vibe",
+      "By owner",
+      "Street View & 360°"
+    ],
+    "scrapedAt": "2026-08-17T09:54:52.636Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": "Not too busy",
+    "popularTimesLivePercent": 47,
+    "popularTimesHistogram": {
+      "Su": [
+        {
+          "hour": 5,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 6,
+          "occupancyPercent": 25
+        },
+        {
+          "hour": 7,
+          "occupancyPercent": 25
+        },
+        {
+          "hour": 8,
+          "occupancyPercent": 24
+        },
+        {
+          "hour": 9,
+          "occupancyPercent": 24
+        },
+        {
+          "hour": 10,
+          "occupancyPercent": 31
+        },
+        {
+          "hour": 11,
+          "occupancyPercent": 41
+        },
+        {
+          "hour": 12,
+          "occupancyPercent": 48
+        },
+        {
+          "hour": 13,
+          "occupancyPercent": 48
+        },
+        {
+          "hour": 14,
+          "occupancyPercent": 45
+        },
+        {
+          "hour": 15,
+          "occupancyPercent": 43
+        },
+        {
+          "hour": 16,
+          "occupancyPercent": 45
+        },
+        {
+          "hour": 17,
+          "occupancyPercent": 48
+        },
+        {
+          "hour": 18,
+          "occupancyPercent": 59
+        },
+        {
+          "hour": 19,
+          "occupancyPercent": 66
+        },
+        {
+          "hour": 20,
+          "occupancyPercent": 73
+        },
+        {
+          "hour": 21,
+          "occupancyPercent": 72
+        },
+        {
+          "hour": 22,
+          "occupancyPercent": 71
+        },
+        {
+          "hour": 23,
+          "occupancyPercent": 58
+        },
+        {
+          "hour": 0,
+          "occupancyPercent": 36
+        }
+      ],
+      "Mo": [
+        {
+          "hour": 5,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 6,
+          "occupancyPercent": 21
+        },
+        {
+          "hour": 7,
+          "occupancyPercent": 22
+        },
+        {
+          "hour": 8,
+          "occupancyPercent": 24
+        },
+        {
+          "hour": 9,
+          "occupancyPercent": 26
+        },
+        {
+          "hour": 10,
+          "occupancyPercent": 32
+        },
+        {
+          "hour": 11,
+          "occupancyPercent": 38
+        },
+        {
+          "hour": 12,
+          "occupancyPercent": 41
+        },
+        {
+          "hour": 13,
+          "occupancyPercent": 41
+        },
+        {
+          "hour": 14,
+          "occupancyPercent": 42
+        },
+        {
+          "hour": 15,
+          "occupancyPercent": 38
+        },
+        {
+          "hour": 16,
+          "occupancyPercent": 44
+        },
+        {
+          "hour": 17,
+          "occupancyPercent": 46
+        },
+        {
+          "hour": 18,
+          "occupancyPercent": 53
+        },
+        {
+          "hour": 19,
+          "occupancyPercent": 63
+        },
+        {
+          "hour": 20,
+          "occupancyPercent": 70
+        },
+        {
+          "hour": 21,
+          "occupancyPercent": 75
+        },
+        {
+          "hour": 22,
+          "occupancyPercent": 62
+        },
+        {
+          "hour": 23,
+          "occupancyPercent": 52
+        },
+        {
+          "hour": 0,
+          "occupancyPercent": 33
+        }
+      ],
+      "Tu": [
+        {
+          "hour": 5,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 6,
+          "occupancyPercent": 23
+        },
+        {
+          "hour": 7,
+          "occupancyPercent": 22
+        },
+        {
+          "hour": 8,
+          "occupancyPercent": 23
+        },
+        {
+          "hour": 9,
+          "occupancyPercent": 25
+        },
+        {
+          "hour": 10,
+          "occupancyPercent": 28
+        },
+        {
+          "hour": 11,
+          "occupancyPercent": 35
+        },
+        {
+          "hour": 12,
+          "occupancyPercent": 41
+        },
+        {
+          "hour": 13,
+          "occupancyPercent": 43
+        },
+        {
+          "hour": 14,
+          "occupancyPercent": 41
+        },
+        {
+          "hour": 15,
+          "occupancyPercent": 46
+        },
+        {
+          "hour": 16,
+          "occupancyPercent": 51
+        },
+        {
+          "hour": 17,
+          "occupancyPercent": 60
+        },
+        {
+          "hour": 18,
+          "occupancyPercent": 63
+        },
+        {
+          "hour": 19,
+          "occupancyPercent": 66
+        },
+        {
+          "hour": 20,
+          "occupancyPercent": 82
+        },
+        {
+          "hour": 21,
+          "occupancyPercent": 86
+        },
+        {
+          "hour": 22,
+          "occupancyPercent": 78
+        },
+        {
+          "hour": 23,
+          "occupancyPercent": 61
+        },
+        {
+          "hour": 0,
+          "occupancyPercent": 33
+        }
+      ],
+      "We": [
+        {
+          "hour": 5,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 6,
+          "occupancyPercent": 21
+        },
+        {
+          "hour": 7,
+          "occupancyPercent": 21
+        },
+        {
+          "hour": 8,
+          "occupancyPercent": 26
+        },
+        {
+          "hour": 9,
+          "occupancyPercent": 26
+        },
+        {
+          "hour": 10,
+          "occupancyPercent": 25
+        },
+        {
+          "hour": 11,
+          "occupancyPercent": 27
+        },
+        {
+          "hour": 12,
+          "occupancyPercent": 27
+        },
+        {
+          "hour": 13,
+          "occupancyPercent": 29
+        },
+        {
+          "hour": 14,
+          "occupancyPercent": 31
+        },
+        {
+          "hour": 15,
+          "occupancyPercent": 41
+        },
+        {
+          "hour": 16,
+          "occupancyPercent": 46
+        },
+        {
+          "hour": 17,
+          "occupancyPercent": 52
+        },
+        {
+          "hour": 18,
+          "occupancyPercent": 52
+        },
+        {
+          "hour": 19,
+          "occupancyPercent": 60
+        },
+        {
+          "hour": 20,
+          "occupancyPercent": 66
+        },
+        {
+          "hour": 21,
+          "occupancyPercent": 78
+        },
+        {
+          "hour": 22,
+          "occupancyPercent": 72
+        },
+        {
+          "hour": 23,
+          "occupancyPercent": 63
+        },
+        {
+          "hour": 0,
+          "occupancyPercent": 38
+        }
+      ],
+      "Th": [
+        {
+          "hour": 5,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 6,
+          "occupancyPercent": 19
+        },
+        {
+          "hour": 7,
+          "occupancyPercent": 22
+        },
+        {
+          "hour": 8,
+          "occupancyPercent": 27
+        },
+        {
+          "hour": 9,
+          "occupancyPercent": 32
+        },
+        {
+          "hour": 10,
+          "occupancyPercent": 36
+        },
+        {
+          "hour": 11,
+          "occupancyPercent": 40
+        },
+        {
+          "hour": 12,
+          "occupancyPercent": 38
+        },
+        {
+          "hour": 13,
+          "occupancyPercent": 35
+        },
+        {
+          "hour": 14,
+          "occupancyPercent": 31
+        },
+        {
+          "hour": 15,
+          "occupancyPercent": 35
+        },
+        {
+          "hour": 16,
+          "occupancyPercent": 40
+        },
+        {
+          "hour": 17,
+          "occupancyPercent": 53
+        },
+        {
+          "hour": 18,
+          "occupancyPercent": 65
+        },
+        {
+          "hour": 19,
+          "occupancyPercent": 76
+        },
+        {
+          "hour": 20,
+          "occupancyPercent": 78
+        },
+        {
+          "hour": 21,
+          "occupancyPercent": 82
+        },
+        {
+          "hour": 22,
+          "occupancyPercent": 75
+        },
+        {
+          "hour": 23,
+          "occupancyPercent": 58
+        },
+        {
+          "hour": 0,
+          "occupancyPercent": 33
+        }
+      ],
+      "Fr": [
+        {
+          "hour": 5,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 6,
+          "occupancyPercent": 17
+        },
+        {
+          "hour": 7,
+          "occupancyPercent": 21
+        },
+        {
+          "hour": 8,
+          "occupancyPercent": 26
+        },
+        {
+          "hour": 9,
+          "occupancyPercent": 30
+        },
+        {
+          "hour": 10,
+          "occupancyPercent": 30
+        },
+        {
+          "hour": 11,
+          "occupancyPercent": 30
+        },
+        {
+          "hour": 12,
+          "occupancyPercent": 31
+        },
+        {
+          "hour": 13,
+          "occupancyPercent": 32
+        },
+        {
+          "hour": 14,
+          "occupancyPercent": 40
+        },
+        {
+          "hour": 15,
+          "occupancyPercent": 45
+        },
+        {
+          "hour": 16,
+          "occupancyPercent": 54
+        },
+        {
+          "hour": 17,
+          "occupancyPercent": 66
+        },
+        {
+          "hour": 18,
+          "occupancyPercent": 77
+        },
+        {
+          "hour": 19,
+          "occupancyPercent": 89
+        },
+        {
+          "hour": 20,
+          "occupancyPercent": 93
+        },
+        {
+          "hour": 21,
+          "occupancyPercent": 94
+        },
+        {
+          "hour": 22,
+          "occupancyPercent": 80
+        },
+        {
+          "hour": 23,
+          "occupancyPercent": 65
+        },
+        {
+          "hour": 0,
+          "occupancyPercent": 35
+        }
+      ],
+      "Sa": [
+        {
+          "hour": 5,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 6,
+          "occupancyPercent": 21
+        },
+        {
+          "hour": 7,
+          "occupancyPercent": 21
+        },
+        {
+          "hour": 8,
+          "occupancyPercent": 26
+        },
+        {
+          "hour": 9,
+          "occupancyPercent": 27
+        },
+        {
+          "hour": 10,
+          "occupancyPercent": 32
+        },
+        {
+          "hour": 11,
+          "occupancyPercent": 35
+        },
+        {
+          "hour": 12,
+          "occupancyPercent": 41
+        },
+        {
+          "hour": 13,
+          "occupancyPercent": 40
+        },
+        {
+          "hour": 14,
+          "occupancyPercent": 42
+        },
+        {
+          "hour": 15,
+          "occupancyPercent": 44
+        },
+        {
+          "hour": 16,
+          "occupancyPercent": 54
+        },
+        {
+          "hour": 17,
+          "occupancyPercent": 63
+        },
+        {
+          "hour": 18,
+          "occupancyPercent": 72
+        },
+        {
+          "hour": 19,
+          "occupancyPercent": 81
+        },
+        {
+          "hour": 20,
+          "occupancyPercent": 94
+        },
+        {
+          "hour": 21,
+          "occupancyPercent": 100
+        },
+        {
+          "hour": 22,
+          "occupancyPercent": 88
+        },
+        {
+          "hour": 23,
+          "occupancyPercent": 63
+        },
+        {
+          "hour": 0,
+          "occupancyPercent": 36
+        }
+      ]
+    },
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "6 AM to 1 AM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "6 AM to 1 AM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "6 AM to 1 AM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "6 AM to 1 AM"
+      },
+      {
+        "day": "Friday",
+        "hours": "6 AM to 1 AM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "6 AM to 1 AM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "6 AM to 1 AM"
+      }
+    ],
+    "peopleAlsoSearch": [
+      {
+        "category": "People also search for",
+        "title": "Café Irani Chai",
+        "reviewsCount": 87,
+        "totalScore": 4.3
+      },
+      {
+        "category": "People also search for",
+        "title": "Irani chai wala",
+        "reviewsCount": 499,
+        "totalScore": 4.3
+      },
+      {
+        "category": "People also search for",
+        "title": "IRANI CHAI",
+        "reviewsCount": 0,
+        "totalScore": 0
+      },
+      {
+        "category": "People also search for",
+        "title": "Irani Chai",
+        "reviewsCount": 4,
+        "totalScore": 3.5
+      },
+      {
+        "category": "People also search for",
+        "title": "POPULAR CAFE AND SNACKS (IRANI CHAI)",
+        "reviewsCount": 14,
+        "totalScore": 4.2
+      }
+    ],
+    "placesTags": [],
+    "reviewsTags": [
+      {
+        "title": "irani chai",
+        "count": 2
+      },
+      {
+        "title": "aromatic smell of chai",
+        "count": 2
+      },
+      {
+        "title": "maska bun",
+        "count": 2
+      },
+      {
+        "title": "hygienic place",
+        "count": 3
+      },
+      {
+        "title": "food",
+        "count": 2
+      },
+      {
+        "title": "smell",
+        "count": 2
+      },
+      {
+        "title": "hotel",
+        "count": 3
+      },
+      {
+        "title": "tea",
+        "count": 5
+      },
+      {
+        "title": "aromatic",
+        "count": 2
+      }
+    ],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Takeout": true
+        },
+        {
+          "Dine-in": true
+        }
+      ],
+      "Highlights": [
+        {
+          "Great tea selection": true
+        },
+        {
+          "Sports": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": false
+        },
+        {
+          "Wheelchair accessible restroom": false
+        },
+        {
+          "Wheelchair accessible seating": false
+        }
+      ],
+      "Offerings": [
+        {
+          "Coffee": true
+        },
+        {
+          "Organic dishes": true
+        }
+      ],
+      "Atmosphere": [
+        {
+          "Casual": true
+        }
+      ],
+      "Crowd": [
+        {
+          "Groups": true
+        }
+      ],
+      "Payments": [
+        {
+          "NFC mobile payments": true
+        }
+      ],
+      "Children": [
+        {
+          "Good for kids": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free street parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Irani%20cafe&query_place_id=ChIJkWYn7zOZyzsR5GaC-mQh6AE",
+    "searchPageUrl": "https://www.google.com/maps/search/Irani%20cafe%20Hyderabad?hl=en",
+    "searchString": "Irani cafe Hyderabad",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk-Y6MDUzfAoBYSTBYfgUHWzBOT6HTObRZeTQi47-gFTI1nMGayrINfhujSkm_FuzwZaS6hYxgkGMhQrmSL22O5QOKWI0ubacf4nEuIPe2C6i6uBZjx8zk_tt0HmhgWBk0iE9tt-Q=w408-h305-k-no",
+    "kgmid": "/g/11h91ld4wp",
+    "businessProfileId": "14725827295042445582",
+    "reviewsDistribution": {
+      "oneStar": 7,
+      "twoStar": 13,
+      "threeStar": 19,
+      "fourStar": 20,
+      "fiveStar": 100
+    },
+    "questionsAndAnswers": [],
+    "updatesFromCustomers": {
+      "text": "Outside view",
+      "language": "en",
+      "postDate": "a year ago",
+      "postedBy": {
+        "name": "Doctor strange",
+        "url": "https://www.google.com/maps/contrib/111621545996531089251?hl=en-US",
+        "title": "Local Guide",
+        "totalReviews": 246
+      },
+      "media": [
+        {
+          "link": "https://lh3.googleusercontent.com/grass-cs/ACvplmMPHutTi-Pwulbezl0yA5pw8V3uAjR9HuEkrOqwNIXwMBUxN9tLRsvqwweHzn2dToMmb0QgTXG-WLrWeWZuAC04EFqa68sb7Ny-3vgKIUkJABnU1ae5kUPnrnrBi5ikQ0M0rxCh=k-no",
+          "postDate": "a year ago"
+        }
+      ]
+    },
+    "webResults": [],
+    "tableReservationLinks": [],
+    "tableReservationProviders": [],
+    "bookingLinks": [],
+    "restaurantData": {
+      "tableReservationProvider": null
+    },
+    "ownerUpdates": [],
+    "imageUrls": [],
+    "reviews": [
+      {
+        "reviewerId": "100623481958851388639",
+        "reviewerUrl": "https://www.google.com/maps/contrib/100623481958851388639?hl=en",
+        "name": "Munagapati Krishnaiah",
+        "reviewerNumberOfReviews": 0,
+        "isLocalGuide": false,
+        "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJD2yhz3r0iOOSLbxHGtvPO89FcSCXaLzI7UdQeN_49CYEURw=s1920-c-rp-mo-br100",
+        "text": null,
+        "textTranslated": null,
+        "publishAt": "a day ago",
+        "publishedAtDate": "2026-08-16T03:34:31.886Z",
+        "likesCount": 0,
+        "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25BM2JHUjZYekpwY201WUxXZFBNVEIzVEcxd1UwRRAB",
+        "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25BM2JHUjZYekpwY201WUxXZFBNVEIzVEcxd1UwRRAB!2m1!1s0x0:0x1e82164fa8266e4!3m1!1s2@1:CAIQACodChtycF9oOnA3bGR6XzJpcm5YLWdPMTB3TG1wU0E%7C%7C?hl=en",
+        "reviewOrigin": "Google",
+        "stars": 5,
+        "rating": null,
+        "responseFromOwnerDate": null,
+        "responseFromOwnerText": null,
+        "reviewImageUrls": [],
+        "reviewContext": {},
+        "reviewDetailedRating": {},
+        "visitedIn": null,
+        "originalLanguage": null,
+        "translatedLanguage": null
+      },
+      {
+        "reviewerId": "117675170708160543280",
+        "reviewerUrl": "https://www.google.com/maps/contrib/117675170708160543280?hl=en",
+        "name": "Sahith Dontula",
+        "reviewerNumberOfReviews": 9,
+        "isLocalGuide": true,
+        "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJ3-KuGfPmZ85fNY1xCCZP8OtRNsc3pNq4vldK0dqovgwsy=s1920-c-rp-mo-ba12-br100",
+        "text": null,
+        "textTranslated": null,
+        "publishAt": "2 weeks ago",
+        "publishedAtDate": "2026-07-30T00:28:40.992Z",
+        "likesCount": 0,
+        "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25Sd1V6VkRORmM0TUdoU01qaEJibFl5Y1dwdmRXYxAB",
+        "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25Sd1V6VkRORmM0TUdoU01qaEJibFl5Y1dwdmRXYxAB!2m1!1s0x0:0x1e82164fa8266e4!3m1!1s2@1:CAIQACodChtycF9oOnRwUzVDNFc4MGhSMjhBblYycWpvdWc%7C%7C?hl=en",
+        "reviewOrigin": "Google",
+        "stars": 5,
+        "rating": null,
+        "responseFromOwnerDate": null,
+        "responseFromOwnerText": null,
+        "reviewImageUrls": [],
+        "reviewContext": {},
+        "reviewDetailedRating": {
+          "Food": 4,
+          "Service": 3,
+          "Atmosphere": 1
+        },
+        "visitedIn": null,
+        "originalLanguage": null,
+        "translatedLanguage": null
+      },
+      {
+        "reviewerId": "114520973939785078810",
+        "reviewerUrl": "https://www.google.com/maps/contrib/114520973939785078810?hl=en",
+        "name": "Mohammed arif",
+        "reviewerNumberOfReviews": 269,
+        "isLocalGuide": true,
+        "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjW2Sg7_MoRmJQ5QWlPoNt_CUpf38Dl5MXDe8r8EkD0Lhum4XdMCVw=s1920-c-rp-mo-ba12-br100",
+        "text": "Tea time",
+        "textTranslated": null,
+        "publishAt": "a month ago",
+        "publishedAtDate": "2026-06-22T19:01:24.513Z",
+        "likesCount": 0,
+        "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xaNFJHVlRlR3haZUZsU1JsVlZaRWhFUVhkVWNtYxAB",
+        "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xaNFJHVlRlR3haZUZsU1JsVlZaRWhFUVhkVWNtYxAB!2m1!1s0x0:0x1e82164fa8266e4!3m1!1s2@1:CAIQACodChtycF9oOlZ4RGVTeGxZeFlSRlVVZEhEQXdUcmc%7C%7C?hl=en",
+        "reviewOrigin": "Google",
+        "stars": 3,
+        "rating": null,
+        "responseFromOwnerDate": null,
+        "responseFromOwnerText": null,
+        "reviewImageUrls": [],
+        "reviewContext": {
+          "Price per person": "₹1–200"
+        },
+        "reviewDetailedRating": {},
+        "visitedIn": null,
+        "originalLanguage": "en",
+        "translatedLanguage": null
+      }
+    ],
+    "leadsEnrichment": []
+  },
+  {
+    "title": "Sky Salt Cafe & Bistro",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Cafe",
+    "address": "Road No. 36, CBI Colony, Jubilee Hills, Hyderabad, Telangana 500033, India",
+    "neighborhood": "CBI Colony, Jubilee Hills",
+    "street": "Road No. 36",
+    "city": "Hyderabad",
+    "postalCode": "500033",
+    "state": "Telangana",
+    "countryCode": "IN",
+    "phone": "+91 89192 96510",
+    "phoneUnformatted": "+918919296510",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 17.4335364,
+      "lng": 78.4050567
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": "CCM4+C2 Hyderabad, Telangana, India",
+    "menu": "https://dinein.petpooja.com/qr/nqexa1vcud/SKY%20SALT%20MENU",
+    "servicesLink": null,
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJbRCWCVWRyzsRuWqKlsYB5A8",
+    "categories": [
+      "Cafe"
+    ],
+    "fid": "0x3bcb91550996106d:0xfe401c6968a6ab9",
+    "cid": "1145042157699754681",
+    "reviewsCount": 1631,
+    "imagesCount": 916,
+    "imageCategories": [
+      "All",
+      "Latest",
+      "Videos",
+      "Menu",
+      "Food & drink",
+      "Vibe",
+      "Dim sum",
+      "French fries",
+      "Latte",
+      "By owner",
+      "Street View & 360°"
+    ],
+    "scrapedAt": "2026-08-17T09:54:47.845Z",
+    "reserveTableUrl": "https://www.google.com/maps/reserve/v/dine/c/BYjCKkWw0OQ?source=pa&opi=79508299&hl=en-US&gei=YtqCar3aNfO80PEP2vuZgQo&ahbb=1&sourceurl=https://www.google.com/maps/preview/place?authuser%3D0%26hl%3Den%26gl%3Dus%26pb%3D!1m16!1s0x3bcb91550996106d:0xfe401c6968a6ab9!3m8!1m3!1d86084.12279373716!2d-122.33430330000002!3d47.6041829!3m2!1i489!2i906!4f13.1!4m2!3d40.7606891!4d-73.9991868!15m2!1m1!4s/m/053lrp6!12m4!2m3!1i360!2i120!4i8!13m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!14m2!1sMcYNaceANdnbi-gPt5PjyQQ!7e81!15m110!1m31!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m20!3b1!4b1!5b1!6b1!9b1!13b1!14b1!17b1!20b1!21b1!22b1!27m1!1b0!28b0!30b1!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!21m0!22m1!1e81!30m6!3b1!6m1!2b1!7m1!2b1!9b1!34m5!7b1!10b1!14b1!15m1!1b0!37i757!39sSky%2BSalt%2BCafe%2B%26q%3DSky%2BSalt%2BCafe%2B",
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": "Busier than usual",
+    "popularTimesLivePercent": 89,
+    "popularTimesHistogram": {
+      "Su": [
+        {
+          "hour": 6,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 7,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 8,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 9,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 10,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 11,
+          "occupancyPercent": 15
+        },
+        {
+          "hour": 12,
+          "occupancyPercent": 23
+        },
+        {
+          "hour": 13,
+          "occupancyPercent": 33
+        },
+        {
+          "hour": 14,
+          "occupancyPercent": 44
+        },
+        {
+          "hour": 15,
+          "occupancyPercent": 52
+        },
+        {
+          "hour": 16,
+          "occupancyPercent": 60
+        },
+        {
+          "hour": 17,
+          "occupancyPercent": 68
+        },
+        {
+          "hour": 18,
+          "occupancyPercent": 80
+        },
+        {
+          "hour": 19,
+          "occupancyPercent": 93
+        },
+        {
+          "hour": 20,
+          "occupancyPercent": 100
+        },
+        {
+          "hour": 21,
+          "occupancyPercent": 90
+        },
+        {
+          "hour": 22,
+          "occupancyPercent": 66
+        },
+        {
+          "hour": 23,
+          "occupancyPercent": 0
+        }
+      ],
+      "Mo": [
+        {
+          "hour": 6,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 7,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 8,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 9,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 10,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 11,
+          "occupancyPercent": 14
+        },
+        {
+          "hour": 12,
+          "occupancyPercent": 18
+        },
+        {
+          "hour": 13,
+          "occupancyPercent": 22
+        },
+        {
+          "hour": 14,
+          "occupancyPercent": 26
+        },
+        {
+          "hour": 15,
+          "occupancyPercent": 33
+        },
+        {
+          "hour": 16,
+          "occupancyPercent": 39
+        },
+        {
+          "hour": 17,
+          "occupancyPercent": 42
+        },
+        {
+          "hour": 18,
+          "occupancyPercent": 45
+        },
+        {
+          "hour": 19,
+          "occupancyPercent": 45
+        },
+        {
+          "hour": 20,
+          "occupancyPercent": 47
+        },
+        {
+          "hour": 21,
+          "occupancyPercent": 40
+        },
+        {
+          "hour": 22,
+          "occupancyPercent": 32
+        },
+        {
+          "hour": 23,
+          "occupancyPercent": 0
+        }
+      ],
+      "Tu": [
+        {
+          "hour": 6,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 7,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 8,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 9,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 10,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 11,
+          "occupancyPercent": 19
+        },
+        {
+          "hour": 12,
+          "occupancyPercent": 26
+        },
+        {
+          "hour": 13,
+          "occupancyPercent": 31
+        },
+        {
+          "hour": 14,
+          "occupancyPercent": 34
+        },
+        {
+          "hour": 15,
+          "occupancyPercent": 33
+        },
+        {
+          "hour": 16,
+          "occupancyPercent": 33
+        },
+        {
+          "hour": 17,
+          "occupancyPercent": 37
+        },
+        {
+          "hour": 18,
+          "occupancyPercent": 42
+        },
+        {
+          "hour": 19,
+          "occupancyPercent": 45
+        },
+        {
+          "hour": 20,
+          "occupancyPercent": 44
+        },
+        {
+          "hour": 21,
+          "occupancyPercent": 41
+        },
+        {
+          "hour": 22,
+          "occupancyPercent": 32
+        },
+        {
+          "hour": 23,
+          "occupancyPercent": 0
+        }
+      ],
+      "We": [
+        {
+          "hour": 6,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 7,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 8,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 9,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 10,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 11,
+          "occupancyPercent": 15
+        },
+        {
+          "hour": 12,
+          "occupancyPercent": 20
+        },
+        {
+          "hour": 13,
+          "occupancyPercent": 24
+        },
+        {
+          "hour": 14,
+          "occupancyPercent": 27
+        },
+        {
+          "hour": 15,
+          "occupancyPercent": 30
+        },
+        {
+          "hour": 16,
+          "occupancyPercent": 33
+        },
+        {
+          "hour": 17,
+          "occupancyPercent": 34
+        },
+        {
+          "hour": 18,
+          "occupancyPercent": 38
+        },
+        {
+          "hour": 19,
+          "occupancyPercent": 42
+        },
+        {
+          "hour": 20,
+          "occupancyPercent": 44
+        },
+        {
+          "hour": 21,
+          "occupancyPercent": 40
+        },
+        {
+          "hour": 22,
+          "occupancyPercent": 31
+        },
+        {
+          "hour": 23,
+          "occupancyPercent": 0
+        }
+      ],
+      "Th": [
+        {
+          "hour": 6,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 7,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 8,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 9,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 10,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 11,
+          "occupancyPercent": 19
+        },
+        {
+          "hour": 12,
+          "occupancyPercent": 24
+        },
+        {
+          "hour": 13,
+          "occupancyPercent": 28
+        },
+        {
+          "hour": 14,
+          "occupancyPercent": 30
+        },
+        {
+          "hour": 15,
+          "occupancyPercent": 32
+        },
+        {
+          "hour": 16,
+          "occupancyPercent": 34
+        },
+        {
+          "hour": 17,
+          "occupancyPercent": 37
+        },
+        {
+          "hour": 18,
+          "occupancyPercent": 39
+        },
+        {
+          "hour": 19,
+          "occupancyPercent": 42
+        },
+        {
+          "hour": 20,
+          "occupancyPercent": 44
+        },
+        {
+          "hour": 21,
+          "occupancyPercent": 40
+        },
+        {
+          "hour": 22,
+          "occupancyPercent": 30
+        },
+        {
+          "hour": 23,
+          "occupancyPercent": 0
+        }
+      ],
+      "Fr": [
+        {
+          "hour": 6,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 7,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 8,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 9,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 10,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 11,
+          "occupancyPercent": 15
+        },
+        {
+          "hour": 12,
+          "occupancyPercent": 22
+        },
+        {
+          "hour": 13,
+          "occupancyPercent": 28
+        },
+        {
+          "hour": 14,
+          "occupancyPercent": 35
+        },
+        {
+          "hour": 15,
+          "occupancyPercent": 39
+        },
+        {
+          "hour": 16,
+          "occupancyPercent": 41
+        },
+        {
+          "hour": 17,
+          "occupancyPercent": 45
+        },
+        {
+          "hour": 18,
+          "occupancyPercent": 49
+        },
+        {
+          "hour": 19,
+          "occupancyPercent": 56
+        },
+        {
+          "hour": 20,
+          "occupancyPercent": 60
+        },
+        {
+          "hour": 21,
+          "occupancyPercent": 56
+        },
+        {
+          "hour": 22,
+          "occupancyPercent": 41
+        },
+        {
+          "hour": 23,
+          "occupancyPercent": 0
+        }
+      ],
+      "Sa": [
+        {
+          "hour": 6,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 7,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 8,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 9,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 10,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 11,
+          "occupancyPercent": 20
+        },
+        {
+          "hour": 12,
+          "occupancyPercent": 27
+        },
+        {
+          "hour": 13,
+          "occupancyPercent": 34
+        },
+        {
+          "hour": 14,
+          "occupancyPercent": 42
+        },
+        {
+          "hour": 15,
+          "occupancyPercent": 49
+        },
+        {
+          "hour": 16,
+          "occupancyPercent": 58
+        },
+        {
+          "hour": 17,
+          "occupancyPercent": 67
+        },
+        {
+          "hour": 18,
+          "occupancyPercent": 75
+        },
+        {
+          "hour": 19,
+          "occupancyPercent": 81
+        },
+        {
+          "hour": 20,
+          "occupancyPercent": 84
+        },
+        {
+          "hour": 21,
+          "occupancyPercent": 77
+        },
+        {
+          "hour": 22,
+          "occupancyPercent": 58
+        },
+        {
+          "hour": 23,
+          "occupancyPercent": 0
+        }
+      ]
+    },
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "11 AM to 11 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "11 AM to 11 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "11 AM to 11 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "11 AM to 11 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "11 AM to 11 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "11 AM to 11 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11 AM to 11 PM"
+      }
+    ],
+    "peopleAlsoSearch": [
+      {
+        "category": "People also search for",
+        "title": "Sky Café (gachibowli)",
+        "reviewsCount": 219,
+        "totalScore": 4.4
+      },
+      {
+        "category": "People also search for",
+        "title": "So The Sky Kitchen",
+        "reviewsCount": 3003,
+        "totalScore": 4
+      },
+      {
+        "category": "People also search for",
+        "title": "SkyPark Cafe",
+        "reviewsCount": 1115,
+        "totalScore": 4
+      }
+    ],
+    "placesTags": [],
+    "reviewsTags": [
+      {
+        "title": "sunset view",
+        "count": 17
+      },
+      {
+        "title": "rooftop view",
+        "count": 13
+      },
+      {
+        "title": "ambience",
+        "count": 283
+      },
+      {
+        "title": "polite staff",
+        "count": 44
+      },
+      {
+        "title": "outdoor seating",
+        "count": 19
+      },
+      {
+        "title": "matcha latte",
+        "count": 4
+      },
+      {
+        "title": "tres leches cheesecake",
+        "count": 3
+      },
+      {
+        "title": "city view",
+        "count": 7
+      },
+      {
+        "title": "peri peri fries",
+        "count": 3
+      },
+      {
+        "title": "chilli fish",
+        "count": 3
+      }
+    ],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Outdoor seating": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Takeout": true
+        },
+        {
+          "Dine-in": true
+        }
+      ],
+      "Highlights": [
+        {
+          "Great coffee": true
+        },
+        {
+          "Great dessert": true
+        },
+        {
+          "Great tea selection": true
+        },
+        {
+          "Rooftop seating": true
+        }
+      ],
+      "Popular for": [
+        {
+          "Lunch": true
+        },
+        {
+          "Dinner": true
+        },
+        {
+          "Solo dining": true
+        },
+        {
+          "Good for working on laptop": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Coffee": true
+        },
+        {
+          "Quick bite": true
+        },
+        {
+          "Small plates": true
+        },
+        {
+          "Vegan options": true
+        },
+        {
+          "Vegetarian options": true
+        }
+      ],
+      "Dining options": [
+        {
+          "Brunch": true
+        },
+        {
+          "Lunch": true
+        },
+        {
+          "Dinner": true
+        },
+        {
+          "Catering": true
+        },
+        {
+          "Dessert": true
+        },
+        {
+          "Seating": true
+        },
+        {
+          "Table service": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Atmosphere": [
+        {
+          "Casual": true
+        },
+        {
+          "Cozy": true
+        },
+        {
+          "Quiet": true
+        },
+        {
+          "Romantic": true
+        },
+        {
+          "Trendy": true
+        },
+        {
+          "Upscale": true
+        }
+      ],
+      "Crowd": [
+        {
+          "College students": true
+        },
+        {
+          "Groups": true
+        }
+      ],
+      "Planning": [
+        {
+          "Lunch reservations recommended": true
+        },
+        {
+          "Dinner reservations recommended": true
+        },
+        {
+          "Accepts reservations": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ],
+      "Children": [
+        {
+          "Good for kids": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "Free street parking": true
+        },
+        {
+          "Usually plenty of parking": true
+        },
+        {
+          "Valet parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Sky%20Salt%20Cafe%20%26%20Bistro&query_place_id=ChIJbRCWCVWRyzsRuWqKlsYB5A8",
+    "searchPageUrl": "https://www.google.com/maps/search/cafes%20in%20Jubilee%20Hills%20Hyderabad?hl=en",
+    "searchString": "cafes in Jubilee Hills Hyderabad",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlmMkgLMonVLiGRPbewt2hMRW6pD3nuSrmMR6Si_PvB12orEiHiKq7kZ82W56xWAF7tvZ6asFrrrdcuwG65xl4Fk8q7t2y8luYT1vfHF-eZSn4oJ5Y0Rjy-givB9cz1gmBtj3G8O92uJjyj=w408-h306-k-no",
+    "kgmid": "/g/11y4mzhhb8",
+    "businessProfileId": "8538106064323236802",
+    "reviewsDistribution": {
+      "oneStar": 61,
+      "twoStar": 13,
+      "threeStar": 40,
+      "fourStar": 164,
+      "fiveStar": 1353
+    },
+    "questionsAndAnswers": [],
+    "updatesFromCustomers": {
+      "text": "Berry Blast mocktail",
+      "language": "en",
+      "postDate": "a week ago",
+      "postedBy": {
+        "name": "Bhargava Krishna",
+        "url": "https://www.google.com/maps/contrib/107863427094618923092?hl=en-US",
+        "title": "Local Guide",
+        "totalReviews": 209
+      },
+      "media": [
+        {
+          "link": "https://lh3.googleusercontent.com/grass-cs/ACvplmMP8Y9tzZP7HEvhHkcROkNlyb15YbCVruJMreVMmP12QyytlanuQvE82S0p6pd8damIKxNvQAjWfNEkmYEKkDSHDI7vBz6NrvCgYNMonmpEx30V3ptdKGFBhIVYFQqOJ644ttTUOxFB3PvL=k-no",
+          "postDate": "a week ago"
+        },
+        {
+          "link": "https://lh3.googleusercontent.com/grass-cs/ACvplmPWTXUtGcC-GqjHbM6ITW2FYVcDyTw6X7Tn_JULnfdkafIbfWttUS_bBZapw4B-mw8-F1BkRgruhcpQ8uR2rIY6iw4dQveXsaZnwVO_v55u0N45Rg5tdpjl8A-XDw8N1pNC6mOv1Zi4kXSM=k-no",
+          "postDate": "a week ago"
+        },
+        {
+          "link": "https://lh3.googleusercontent.com/grass-cs/ACvplmNKZ57_XJDNkctrX7itPEGEORZ-1mtahqbDB-csmz1o8zndbt33VFeVvYUjUPD-4BAlzdy3KmJAfcrMhsc4-XVe8081UMg0G3vt4kFQgnQtEW0ORgdJTRpIQ81vDzhK_6WnZB6TKH8mq0Iv=k-no",
+          "postDate": "a week ago"
+        }
+      ]
+    },
+    "webResults": [],
+    "tableReservationLinks": [
+      {
+        "name": "swiggy.com",
+        "url": "https://www.swiggy.com/restaurants/sky-salt-cafe-and-bistro-jubilee-hills-kothapet-hyderabad-910680/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve"
+      },
+      {
+        "name": "zomato.com",
+        "url": "https://www.zomato.com/hyderabad/sky-salt-jubilee-hills/book?utm_source=rwg"
+      },
+      {
+        "name": "district.in",
+        "url": "https://www.district.in/dining/hyderabad/sky-salt-jubilee-hills/book?utm_source=rwg"
+      }
+    ],
+    "tableReservationProviders": [
+      {
+        "name": "Swiggy",
+        "email": null,
+        "phone": null,
+        "address": null,
+        "reserveTableUrl": "https://www.google.com/maps/reserve/v/dine/c/BYjCKkWw0OQ?source=pa&opi=79508299&hl=en-US&gei=YtqCar3aNfO80PEP2vuZgQo&ahbb=1&sourceurl=https://www.google.com/maps/preview/place?authuser%3D0%26hl%3Den%26gl%3Dus%26pb%3D!1m16!1s0x3bcb91550996106d:0xfe401c6968a6ab9!3m8!1m3!1d86084.12279373716!2d-122.33430330000002!3d47.6041829!3m2!1i489!2i906!4f13.1!4m2!3d40.7606891!4d-73.9991868!15m2!1m1!4s/m/053lrp6!12m4!2m3!1i360!2i120!4i8!13m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!14m2!1sMcYNaceANdnbi-gPt5PjyQQ!7e81!15m110!1m31!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m20!3b1!4b1!5b1!6b1!9b1!13b1!14b1!17b1!20b1!21b1!22b1!27m1!1b0!28b0!30b1!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!21m0!22m1!1e81!30m6!3b1!6m1!2b1!7m1!2b1!9b1!34m5!7b1!10b1!14b1!15m1!1b0!37i757!39sSky%2BSalt%2BCafe%2B%26q%3DSky%2BSalt%2BCafe%2B"
+      }
+    ],
+    "bookingLinks": [],
+    "restaurantData": {
+      "tableReservationProvider": {
+        "name": "Swiggy",
+        "email": null,
+        "phone": null,
+        "address": null,
+        "reserveTableUrl": "https://www.google.com/maps/reserve/v/dine/c/BYjCKkWw0OQ?source=pa&opi=79508299&hl=en-US&gei=YtqCar3aNfO80PEP2vuZgQo&ahbb=1&sourceurl=https://www.google.com/maps/preview/place?authuser%3D0%26hl%3Den%26gl%3Dus%26pb%3D!1m16!1s0x3bcb91550996106d:0xfe401c6968a6ab9!3m8!1m3!1d86084.12279373716!2d-122.33430330000002!3d47.6041829!3m2!1i489!2i906!4f13.1!4m2!3d40.7606891!4d-73.9991868!15m2!1m1!4s/m/053lrp6!12m4!2m3!1i360!2i120!4i8!13m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!14m2!1sMcYNaceANdnbi-gPt5PjyQQ!7e81!15m110!1m31!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m20!3b1!4b1!5b1!6b1!9b1!13b1!14b1!17b1!20b1!21b1!22b1!27m1!1b0!28b0!30b1!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!21m0!22m1!1e81!30m6!3b1!6m1!2b1!7m1!2b1!9b1!34m5!7b1!10b1!14b1!15m1!1b0!37i757!39sSky%2BSalt%2BCafe%2B%26q%3DSky%2BSalt%2BCafe%2B"
+      }
+    },
+    "ownerUpdates": [],
+    "imageUrls": [],
+    "reviews": [
+      {
+        "reviewerId": "107456126179065403435",
+        "reviewerUrl": "https://www.google.com/maps/contrib/107456126179065403435?hl=en",
+        "name": "Haripriya",
+        "reviewerNumberOfReviews": 0,
+        "isLocalGuide": false,
+        "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXWqVrIaGF7-ZDYACqkHTMinRI_DHpvP80BH-a68LOnfG8A5lg=s1920-c-rp-mo-br100",
+        "text": null,
+        "textTranslated": null,
+        "publishAt": "49 minutes ago",
+        "publishedAtDate": "2026-08-17T09:05:10.781Z",
+        "likesCount": 0,
+        "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25oR1N6aEZXV1o0ZDJSclRtNVVaR1pUVDB4dFozYxAB",
+        "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25oR1N6aEZXV1o0ZDJSclRtNVVaR1pUVDB4dFozYxAB!2m1!1s0x0:0xfe401c6968a6ab9!3m1!1s2@1:CAIQACodChtycF9oOnhGSzhFWWZ4d2RrTm5UZGZTT0xtZ3c%7C%7C?hl=en",
+        "reviewOrigin": "Google",
+        "stars": 5,
+        "rating": null,
+        "responseFromOwnerDate": null,
+        "responseFromOwnerText": null,
+        "reviewImageUrls": [],
+        "reviewContext": {},
+        "reviewDetailedRating": {
+          "Food": 4,
+          "Service": 5,
+          "Atmosphere": 5
+        },
+        "visitedIn": null,
+        "originalLanguage": null,
+        "translatedLanguage": null
+      },
+      {
+        "reviewerId": "101408879393436085318",
+        "reviewerUrl": "https://www.google.com/maps/contrib/101408879393436085318?hl=en",
+        "name": "Mansi gupta",
+        "reviewerNumberOfReviews": 1,
+        "isLocalGuide": false,
+        "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLugMZc-4z7BuKUD6LxB3RHkkbxX-EV9CXBQx4-ew07BYFMUw=s1920-c-rp-mo-br100",
+        "text": "Cozy ambience and good food",
+        "textTranslated": null,
+        "publishAt": "49 minutes ago",
+        "publishedAtDate": "2026-08-17T09:05:03.103Z",
+        "likesCount": 0,
+        "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT21wWmJGbHZOVE5MWkdKMFMzbFlaM2x5YVhkamRIYxAB",
+        "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21wWmJGbHZOVE5MWkdKMFMzbFlaM2x5YVhkamRIYxAB!2m1!1s0x0:0xfe401c6968a6ab9!3m1!1s2@1:CAIQACodChtycF9oOmpZbFlvNTNLZGJ0S3lYZ3lyaXdjdHc%7C%7C?hl=en",
+        "reviewOrigin": "Google",
+        "stars": 5,
+        "rating": null,
+        "responseFromOwnerDate": null,
+        "responseFromOwnerText": null,
+        "reviewImageUrls": [],
+        "reviewContext": {},
+        "reviewDetailedRating": {
+          "Food": 5,
+          "Service": 5,
+          "Atmosphere": 5
+        },
+        "visitedIn": null,
+        "originalLanguage": "en",
+        "translatedLanguage": null
+      },
+      {
+        "reviewerId": "102022695361131409282",
+        "reviewerUrl": "https://www.google.com/maps/contrib/102022695361131409282?hl=en",
+        "name": "Mehreen Muskaan",
+        "reviewerNumberOfReviews": 14,
+        "isLocalGuide": true,
+        "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKnnCKKhSjXXAYUPFIga_utWg3wH0D188SlE77mAlv5h2zpdQ=s1920-c-rp-mo-ba12-br100",
+        "text": "Burger 2/5\nPizza 3/5\nPasta 3/5\nFries 5/5\nOverall 3/5",
+        "textTranslated": null,
+        "publishAt": "14 hours ago",
+        "publishedAtDate": "2026-08-16T19:06:33.612Z",
+        "likesCount": 0,
+        "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xKR1VFNUpaaTFUUzBKbmNUVjNOblJuWDA5NlUyYxAB",
+        "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xKR1VFNUpaaTFUUzBKbmNUVjNOblJuWDA5NlUyYxAB!2m1!1s0x0:0xfe401c6968a6ab9!3m1!1s2@1:CAIQACodChtycF9oOlJGUE5JZi1TS0JncTV3NnRnX096U2c%7C%7C?hl=en",
+        "reviewOrigin": "Google",
+        "stars": 3,
+        "rating": null,
+        "responseFromOwnerDate": null,
+        "responseFromOwnerText": null,
+        "reviewImageUrls": [],
+        "reviewContext": {
+          "Meal type": "Lunch",
+          "Price per person": "₹400–600",
+          "Group size": "5-8 people",
+          "Seating type": "Indoor dining area, Outdoor patio / terrace"
+        },
+        "reviewDetailedRating": {
+          "Food": 3,
+          "Service": 5,
+          "Atmosphere": 4
+        },
+        "visitedIn": null,
+        "originalLanguage": "en",
+        "translatedLanguage": null
+      }
+    ],
+    "leadsEnrichment": []
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "raw_records": 2713,
+  "duplicates_removed": 13,
+  "invalid_values_fixed": {
+    "rating_out_of_range": 8,
+    "negative_monthly_reviews": 5
+  },
+  "missing_values_imputed": {
+    "rating": 8,
+    "sentiment_score": 71,
+    "response_rate": 57,
+    "response_time_hours": 62,
+    "service_score": 65,
+    "value_score": 58,
+    "website_visits": 76,
+    "social_engagement": 66,
+    "engagement_rate": 81
+  },
+  "final_records": 2700
+}

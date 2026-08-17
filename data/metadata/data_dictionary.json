@@ -1,0 +1,288 @@
+{
+  "dataset_name": "Project Polaris Competitive Intelligence Dataset",
+  "dataset_type": "Simulated Dataset",
+  "description": "Monthly business performance observations for ~150 businesses across 18 months, designed for competitive intelligence analysis in the Hyderabad cafe market.",
+  "generated_from": "Seeded from real Hyderabad cafe data (v1_leaders_vs_challengers.csv) with simulated expansion.",
+  "columns": [
+    {
+      "column": "business_id",
+      "type": "string",
+      "description": "Unique business identifier (BIZ_001 to BIZ_150)",
+      "source": "Generated",
+      "transformation": "Sequential ID assignment",
+      "analytical_purpose": "Primary key for joins and grouping"
+    },
+    {
+      "column": "business_name",
+      "type": "string",
+      "description": "Name of the business",
+      "source": "11 real names from seed CSV, remainder generated",
+      "transformation": "None",
+      "analytical_purpose": "Display label, business identification"
+    },
+    {
+      "column": "category",
+      "type": "string",
+      "description": "Business type (Cafe, Coffee Shop, Bakery & Cafe, Restaurant & Cafe, Tea House)",
+      "source": "Seed data + weighted random assignment",
+      "transformation": "Normalized to standard vocabulary during cleaning",
+      "analytical_purpose": "Segmentation, filtering, category comparison"
+    },
+    {
+      "column": "location",
+      "type": "string",
+      "description": "Neighborhood/area name within Hyderabad",
+      "source": "25 real Hyderabad neighborhoods across 5 clusters",
+      "transformation": "Title-cased, whitespace-trimmed",
+      "analytical_purpose": "Geographic analysis, location filtering"
+    },
+    {
+      "column": "cluster",
+      "type": "string",
+      "description": "Geographic cluster (Central, East, West, South, Old City)",
+      "source": "Assigned based on location",
+      "transformation": "None",
+      "analytical_purpose": "Regional aggregation, market analysis"
+    },
+    {
+      "column": "latitude",
+      "type": "float",
+      "description": "Geographic latitude coordinate",
+      "source": "Generated around real cluster centers with jitter",
+      "transformation": "None",
+      "analytical_purpose": "Map visualization, distance calculations"
+    },
+    {
+      "column": "longitude",
+      "type": "float",
+      "description": "Geographic longitude coordinate",
+      "source": "Generated around real cluster centers with jitter",
+      "transformation": "None",
+      "analytical_purpose": "Map visualization, distance calculations"
+    },
+    {
+      "column": "price_level",
+      "type": "integer",
+      "description": "Price tier (1=Budget, 2=Moderate, 3=Upscale, 4=Premium)",
+      "source": "Weighted random assignment",
+      "transformation": "None",
+      "analytical_purpose": "Price segmentation, value analysis"
+    },
+    {
+      "column": "business_age_years",
+      "type": "float",
+      "description": "Years the business has been operating (increases monthly)",
+      "source": "11 real values from seed, remainder from log-normal distribution",
+      "transformation": "Incremented by 1/12 per month",
+      "analytical_purpose": "Maturity analysis, experience correlation"
+    },
+    {
+      "column": "is_our_business",
+      "type": "boolean",
+      "description": "Whether this is the user's own business (Cafe Niloufer = true)",
+      "source": "Manually assigned",
+      "transformation": "None",
+      "analytical_purpose": "Self vs. competitor comparison"
+    },
+    {
+      "column": "date",
+      "type": "date",
+      "description": "First day of the observation month (YYYY-MM-DD)",
+      "source": "Generated monthly from Jan 2025 to Jun 2026",
+      "transformation": "Parsed as datetime",
+      "analytical_purpose": "Time series, trend analysis, period filtering"
+    },
+    {
+      "column": "rating",
+      "type": "float",
+      "description": "Average customer rating for this month (1.0-5.0 scale)",
+      "source": "Base from seed data + trend + seasonality + noise",
+      "transformation": "Clipped to [1.0, 5.0], invalid values imputed",
+      "analytical_purpose": "Primary performance metric, competitor comparison"
+    },
+    {
+      "column": "review_count",
+      "type": "integer",
+      "description": "Cumulative total review count as of this month",
+      "source": "Base from seed data, accumulated monthly",
+      "transformation": "None",
+      "analytical_purpose": "Business scale indicator, social proof"
+    },
+    {
+      "column": "monthly_reviews",
+      "type": "integer",
+      "description": "Number of new reviews received this month",
+      "source": "Derived from review velocity + seasonality + noise",
+      "transformation": "Negative values set to 0",
+      "analytical_purpose": "Customer engagement volume, growth indicator"
+    },
+    {
+      "column": "sentiment_score",
+      "type": "float",
+      "description": "Aggregated customer sentiment (-1.0 to 1.0, where 1.0 = very positive)",
+      "source": "Correlated with rating + trend + noise",
+      "transformation": "Missing values imputed with per-business median",
+      "analytical_purpose": "Customer satisfaction signal, trend monitoring"
+    },
+    {
+      "column": "response_rate",
+      "type": "float",
+      "description": "Fraction of reviews the business responded to (0.0-1.0)",
+      "source": "Correlated with business age",
+      "transformation": "Missing values imputed with per-business median",
+      "analytical_purpose": "Customer service quality indicator"
+    },
+    {
+      "column": "response_time_hours",
+      "type": "float",
+      "description": "Average hours to respond to customer reviews",
+      "source": "Log-normal distribution inversely correlated with response rate",
+      "transformation": "Missing values imputed with per-business median",
+      "analytical_purpose": "Service responsiveness metric"
+    },
+    {
+      "column": "service_score",
+      "type": "float",
+      "description": "Service quality sub-score (1.0-5.0 scale)",
+      "source": "Correlated with overall rating + noise",
+      "transformation": "Missing values imputed, clipped to [1.0, 5.0]",
+      "analytical_purpose": "Service quality driver analysis"
+    },
+    {
+      "column": "value_score",
+      "type": "float",
+      "description": "Value for money sub-score (1.0-5.0 scale)",
+      "source": "Correlated with rating, inversely with price level",
+      "transformation": "Missing values imputed, clipped to [1.0, 5.0]",
+      "analytical_purpose": "Price-performance analysis"
+    },
+    {
+      "column": "website_visits",
+      "type": "integer",
+      "description": "Estimated monthly website visits",
+      "source": "Correlated with engagement base + seasonality",
+      "transformation": "Missing values imputed, negative set to 0",
+      "analytical_purpose": "Digital presence, funnel analysis"
+    },
+    {
+      "column": "social_engagement",
+      "type": "integer",
+      "description": "Monthly social media interactions (likes, comments, shares)",
+      "source": "Correlated with engagement base + seasonality",
+      "transformation": "Missing values imputed, negative set to 0",
+      "analytical_purpose": "Brand awareness, digital marketing effectiveness"
+    },
+    {
+      "column": "engagement_rate",
+      "type": "float",
+      "description": "Social engagement rate (interactions / reach, 0.0-1.0)",
+      "source": "Exponential distribution",
+      "transformation": "Missing values imputed, clipped to [0.0, 1.0]",
+      "analytical_purpose": "Content effectiveness, audience quality"
+    },
+    {
+      "column": "repeat_customer_rate",
+      "type": "float",
+      "description": "Estimated fraction of returning customers (0.0-1.0)",
+      "source": "Correlated with rating",
+      "transformation": "Missing values imputed",
+      "analytical_purpose": "Customer loyalty, retention analysis"
+    },
+    {
+      "column": "review_velocity",
+      "type": "float",
+      "description": "Monthly reviews normalized by business age (reviews/year_of_age)",
+      "source": "Derived: monthly_reviews / business_age_years",
+      "transformation": "Feature engineering",
+      "analytical_purpose": "Age-adjusted growth metric"
+    },
+    {
+      "column": "rating_momentum",
+      "type": "float",
+      "description": "Month-over-month change in rating",
+      "source": "Derived: current month rating - previous month rating",
+      "transformation": "Feature engineering, first month = 0",
+      "analytical_purpose": "Rating trend direction and magnitude"
+    },
+    {
+      "column": "review_growth_rate",
+      "type": "float",
+      "description": "Percentage change in monthly reviews vs previous month",
+      "source": "Derived: pct_change of monthly_reviews",
+      "transformation": "Feature engineering, inf replaced with 0",
+      "analytical_purpose": "Business momentum indicator"
+    },
+    {
+      "column": "relative_rating",
+      "type": "float",
+      "description": "Business rating / market average rating for that month",
+      "source": "Derived: rating / mean(all ratings in month)",
+      "transformation": "Feature engineering",
+      "analytical_purpose": "Performance relative to market benchmark"
+    },
+    {
+      "column": "relative_review_volume",
+      "type": "float",
+      "description": "Business monthly reviews / market average monthly reviews",
+      "source": "Derived: monthly_reviews / mean(all monthly_reviews in month)",
+      "transformation": "Feature engineering",
+      "analytical_purpose": "Volume relative to market benchmark"
+    },
+    {
+      "column": "relative_sentiment",
+      "type": "float",
+      "description": "Business sentiment / market average sentiment for that month",
+      "source": "Derived: sentiment_score / mean(all sentiment in month)",
+      "transformation": "Feature engineering",
+      "analytical_purpose": "Sentiment relative to market benchmark"
+    },
+    {
+      "column": "market_share_estimate",
+      "type": "float",
+      "description": "Business monthly reviews as fraction of total market reviews",
+      "source": "Derived: monthly_reviews / sum(all monthly_reviews in month)",
+      "transformation": "Feature engineering",
+      "analytical_purpose": "Approximate market share proxy"
+    },
+    {
+      "column": "competitive_score",
+      "type": "float",
+      "description": "Composite competitive score (0-100) based on weighted normalized metrics",
+      "source": "Derived: 0.25*rating + 0.20*reviews + 0.20*sentiment + 0.15*engagement + 0.10*growth + 0.10*service (all min-max normalized per month)",
+      "transformation": "Feature engineering, methodology documented in UI",
+      "analytical_purpose": "Overall competitive ranking metric"
+    },
+    {
+      "column": "year",
+      "type": "integer",
+      "description": "Year extracted from date",
+      "source": "Derived from date column",
+      "transformation": "Feature engineering",
+      "analytical_purpose": "Time filtering, annual comparison"
+    },
+    {
+      "column": "month",
+      "type": "integer",
+      "description": "Month number (1-12) extracted from date",
+      "source": "Derived from date column",
+      "transformation": "Feature engineering",
+      "analytical_purpose": "Seasonality analysis, monthly filtering"
+    },
+    {
+      "column": "quarter",
+      "type": "integer",
+      "description": "Quarter number (1-4) extracted from date",
+      "source": "Derived from date column",
+      "transformation": "Feature engineering",
+      "analytical_purpose": "Quarterly aggregation"
+    },
+    {
+      "column": "month_name",
+      "type": "string",
+      "description": "Human-readable month label (e.g., 'Jan 2025')",
+      "source": "Derived from date column",
+      "transformation": "Feature engineering",
+      "analytical_purpose": "Display label for charts"
+    }
+  ]
+}

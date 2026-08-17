@@ -1,0 +1,42 @@
+{
+  "generated_at": "2026-08-17T10:37:18.275239+00:00",
+  "dataset_type": "Real data \u2014 Google Maps via Apify",
+  "pipeline_run_id": "736227e5",
+  "summary": {
+    "total_cafes": 6,
+    "total_columns": 26,
+    "neighborhoods": 3,
+    "cafe_types": 2,
+    "completeness_pct": 93.6,
+    "records_extracted": 6,
+    "records_rejected": 0,
+    "duplicates_removed": 0,
+    "records_enriched": 6
+  },
+  "rating_distribution": {
+    "mean": 4.45,
+    "median": 4.45,
+    "min": 4.2,
+    "max": 4.7,
+    "std": 0.19
+  },
+  "missing_data": {
+    "price_level": {
+      "missing": 6,
+      "missing_pct": 100.0
+    },
+    "website_url": {
+      "missing": 4,
+      "missing_pct": 66.7
+    }
+  },
+  "known_gaps": [
+    "No website traffic data (requires analytics integration)",
+    "No social media follower counts (requires Instagram/Twitter API)",
+    "No repeat customer rate (requires POS/loyalty system data)",
+    "No footfall data (requires location analytics provider)",
+    "Review text limited to max 5 per caf\u00e9 (Apify cost constraint)",
+    "Single time snapshot \u2014 no historical trends (requires repeated scrapes)"
+  ],
+  "extraction_source": "Google Maps via Apify"
+}
